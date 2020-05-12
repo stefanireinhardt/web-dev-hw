@@ -1,3 +1,4 @@
-asdkjf ;aslkfj ai lkajdsfja jdkfjd ;lkjdkj ;laiihs is shh;aj lahjshd lkjsah gvakjsvcagsgc ahsgc;a
-lashdlahs;ahh ajshdjash dakjshf;sjsjsl sjsjs sjs lf dud kv;ac
-kdsjfk iuwyr cokd f;ahf jadif ;lahv hyup;
+5. The web uses hypertext documents to connect information whereas the internet connects participants from around the world.
+6. The internet is a physical fiberoptic wire that connects to data centers around the world where it is then distributed to regular people through internet service providers (ISPs) like Verizon and At&T.
+7.  A directory is a compilation of all the data or files within a single program or website.  It houses all files within a website in a hyarchy for a more organized accessibility.
+8. Using a VCS is beneficial because it allows multiple users to work within a directory or single file at the same time.  It also provides a simpler tracking system when one needs to look back over the change history.
