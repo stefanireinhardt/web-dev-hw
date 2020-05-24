@@ -1,8 +1,10 @@
 # Assignment 5
 ## Stefani Reinhardt
 
-I visited **MySpace.com** on May 19, 2004 using [_The Wayback Machine_](https://archive.org/web/). It looked outdated with simple graphics and pixelated headings.  Today, the graphics are much more pleasing to look at such as having more color and embeded video that plays when you arrive on the main page.
+A page can _only_ have one <head> and one <body> element.  The <head> element contains the information about the page such as the author's information and publication date, otherwise referred to as "_the thoughts of the page._" The <body> element contains all the content that will be visible within the browser window.
 
-The Git Module has been a work in progress for me.  The platform's appearance is unlike any I've used before so it has been challenging to read it properly and not get lost in the details.  I do find it is easier to use the more time I spend with it though. So far, I have learned how to sync my desktop app with the live web version.
+**Structural Markups** embed information about the structure of a document and includes elements such as _headings_, _paragraphs_, _breaks_, and _lists_.
 
-[My Screenshot](./images/screenshot.png)
+**Semantic Markups** are used to reinforce the meaning of the information such as placing _emphasis_ on a word or phrase.  They also offer the ability to cite quotes, link to definitions, or distinguish editorial changes.
+
+For this assignment, I followed along on the external [Intro-Web-Dev](https://intro-web-dev.media-ed-online.com/) website and then I would pause to read the specified pages from my _HTML&CSS Textbook_ when prompted.
