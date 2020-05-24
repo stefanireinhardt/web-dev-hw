@@ -1,7 +1,7 @@
 # Assignment 5
 ## Stefani Reinhardt
 
-A page can _only_ have one <head> and one <body> element.  The <head> element contains the information about the page such as the author's information and publication date, otherwise referred to as "_the thoughts of the page._" The <body> element contains all the content that will be visible within the browser window.
+A page can _only_ have one *<head>* and one *<body>* element.  The <head> element contains the information about the page such as the author's information and publication date, otherwise referred to as "_the thoughts of the page._" The <body> element contains all the content that will be visible within the browser window.
 
 **Structural Markups** embed information about the structure of a document and includes elements such as _headings_, _paragraphs_, _breaks_, and _lists_.
 
