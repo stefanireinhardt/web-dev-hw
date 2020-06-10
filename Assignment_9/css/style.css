@@ -15,12 +15,6 @@ p {
   /* Targets ALL paragraph elements. */
    font-color: #fbbda0;
    bacground-color: rgba(232,184,46,0.5);
-
-}
-
-.styled {
-  /* Targets ANY element with the "styled" class. */
-   color: ivory;
 }
 
 p.styled {
@@ -34,7 +28,8 @@ left.image {
   /* Targets images to be positoned to the left. */
   align-content: left;
   border-radius: 25px;
-  border: 5px ivory;
+  border-color: rgba(232,184,46,0.5);
+  border: 5px;
   padding: 20px;
   width: auto;
   height: auto;
@@ -44,7 +39,8 @@ right.image {
   /* Targets images to be positoned to the right. */
   align-content: right;
   border-radius: 25px;
-  border: 5px solid white;
+  border-color: rgba(232,184,46,0.5);
+  border: 5px;
   padding: 20px;
   width: auto;
   height: auto;
