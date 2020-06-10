@@ -7,13 +7,13 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  color: ivory;
+  color: #fbbda0;
   font-size: 200%;
 }
 
 p {
   /* Targets ALL paragraph elements. */
-   background-color: gold;
+   font-color: ivory;
 }
 
 .styled {
