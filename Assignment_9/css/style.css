@@ -1,7 +1,14 @@
 body {
    /* Targets EVERY element in the body. */
-   font-family: Arial;
+   font-family: arial, serif;
+   font-size: 12px;
    background-color: #17291f;
+}
+
+h1 {
+  /* Targets Heading1 elements. */
+  color: ivory;
+  font-size: 200%;
 }
 
 p {
