@@ -8,12 +8,14 @@ body {
 h1 {
   /* Targets Heading1 elements. */
   color: #fbbda0;
-  font-size: 700%;
+  font-size: 600%;
 }
 
 p {
   /* Targets ALL paragraph elements. */
-   font-color: ivory;
+   font-color: #fbbda0;
+   bacground-color: rgba(232,184,46,0.5);
+
 }
 
 .styled {
