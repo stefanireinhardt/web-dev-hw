@@ -11,11 +11,15 @@ h1 {
   font-size: 600%;
 }
 
+style {
+  /* Targets Content with Background Opacity Color */
+   bacground-color: rgba(232,184,46,1);
+}
+
 p {
   /* Targets ALL paragraph elements. */
    font-color: #fec52e;
-   font-size: 24px;
-   bacground-color: rgba(232,184,46,1);
+   font-size: 20px;
    align: center;
 }
 
