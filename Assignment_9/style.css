@@ -1,0 +1,42 @@
+body {
+   /* Targets EVERY element in the body. */
+   font-family: Arial;
+   background-color: #17291f;
+}
+
+p {
+  /* Targets ALL paragraph elements. */
+   background-color: gold;
+}
+
+.styled {
+  /* Targets ANY element with the "styled" class. */
+   color: ivory;
+}
+
+p.styled {
+  /* Targets ONLY paragraphs with the "styled" class. */
+   border: 2px;
+   border-color: #17291f;
+   background-color: ivory;
+}
+
+left.image {
+  /* Targets images to be positoned to the left. */
+  align-content: left;
+  border-radius: 25px;
+  border: 5px ivory;
+  padding: 20px;
+  width: auto;
+  height: auto;
+}
+
+right.image {
+  /* Targets images to be positoned to the right. */
+  align-content: right;
+  border-radius: 25px;
+  border: 5px solid white;
+  padding: 20px;
+  width: auto;
+  height: auto;
+}
