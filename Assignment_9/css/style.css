@@ -14,8 +14,8 @@ h1 {
 p {
   /* Targets ALL paragraph elements. */
    font-color: #fec52e;
-   font-size: 250%;
-   bacground-color: rgba(232,184,46,0.5);
+   font-size: 12px;
+   bacground-color: rgba(232,184,46,1);
 }
 
 image {
