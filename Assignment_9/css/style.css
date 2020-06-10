@@ -13,27 +13,16 @@ h1 {
 
 p {
   /* Targets ALL paragraph elements. */
-   font-color: #fbbda0;
+   font-color: #fec52e;
+   font-size: 250%;
    bacground-color: rgba(232,184,46,0.5);
 }
 
-left.image {
+image {
   /* Targets images to be positoned to the left. */
-  align-content: left;
   border-radius: 25px;
   border-color: rgba(232,184,46,0.5);
-  border: 5px;
-  padding: 20px;
-  width: auto;
-  height: auto;
-}
-
-right.image {
-  /* Targets images to be positoned to the right. */
-  align-content: right;
-  border-radius: 25px;
-  border-color: rgba(232,184,46,0.5);
-  border: 5px;
+  border: 20px;
   padding: 20px;
   width: auto;
   height: auto;
