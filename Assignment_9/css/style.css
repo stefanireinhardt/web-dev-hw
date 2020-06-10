@@ -17,13 +17,6 @@ p {
    bacground-color: rgba(232,184,46,0.5);
 }
 
-p.styled {
-  /* Targets ONLY paragraphs with the "styled" class. */
-   border: 2px;
-   border-color: #17291f;
-   background-color: ivory;
-}
-
 left.image {
   /* Targets images to be positoned to the left. */
   align-content: left;
