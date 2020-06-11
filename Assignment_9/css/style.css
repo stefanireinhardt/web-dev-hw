@@ -1,14 +1,13 @@
 body {
    /* Targets EVERY element in the body. */
    font-family: arial, serif;
-   font-size: 12px;
    background-color: #ffd976;
    align-content: center;
 }
 
 h1 {
   /* Targets Heading1 elements. */
-  color: #104734;
+  font-color: #104734;
   font-size: 600%;
 }
 
