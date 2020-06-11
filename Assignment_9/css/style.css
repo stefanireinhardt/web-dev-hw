@@ -5,6 +5,11 @@ body {
    align-content: center;
 }
 
+article {
+  width: 480px;
+  margin: auto;
+}
+
 h1 {
   /* Targets Heading1 elements. */
   font-color: #104734;
