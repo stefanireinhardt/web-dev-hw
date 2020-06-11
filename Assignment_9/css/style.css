@@ -9,6 +9,7 @@ h1 {
   /* Targets Heading1 elements. */
   font-color: #104734;
   font-size: 400%;
+  text-align: center;
 }
 
 p {
@@ -20,7 +21,7 @@ p {
 
 .container {
   background-color: rgba(255,255,255,0.5);
-  position: relative;
+  position: center;
   width: 1075px;
   margin: auto;
   padding: 20px;
