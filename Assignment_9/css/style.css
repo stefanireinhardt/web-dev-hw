@@ -21,7 +21,7 @@ p {
   /* Targets ALL paragraph elements. */
    font-color: #fec52e;
    font-size: 20px;
-   align: center;
+   text-align: center;
 }
 
 image {
