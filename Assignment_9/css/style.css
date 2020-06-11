@@ -11,17 +11,19 @@ h1 {
   font-size: 600%;
 }
 
-style {
-  /* Targets Content with Background Opacity Color */
-   bacground-color: rgba(232,184,46,0.5);
-   width: 1075;
-}
-
 p {
   /* Targets ALL paragraph elements. */
    font-color: #fec52e;
    font-size: 20px;
    text-align: center;
+}
+
+.container {
+  background-color: rgba(255,255,255,0.5);
+  position: relative;
+  width: 1075px;
+  margin: auto;
+  padding: 20px;
 }
 
 image {
