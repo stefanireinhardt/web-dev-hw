@@ -2,7 +2,8 @@ body {
    /* Targets EVERY element in the body. */
    font-family: arial, serif;
    font-size: 12px;
-   background-color: #17291f;
+   background-color: #ffd976;
+   align-content: center;
 }
 
 h1 {
