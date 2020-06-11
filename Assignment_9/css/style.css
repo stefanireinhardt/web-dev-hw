@@ -1,7 +1,7 @@
 body {
    /* Targets EVERY element in the body. */
    font-family: arial, serif;
-   background-color: #ffd976;
+   background-color: #0f6494;
    align-content: center;
 }
 
@@ -12,7 +12,7 @@ article {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-color: #104734;
+  font-color: #104734 !important;
   font-size: 400%;
   text-align: center;
 }
