@@ -14,7 +14,8 @@ h1 {
 
 style {
   /* Targets Content with Background Opacity Color */
-   bacground-color: rgba(232,184,46,1);
+   bacground-color: rgba(232,184,46,0.5);
+   width: 1075;
 }
 
 p {
