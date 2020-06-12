@@ -21,6 +21,15 @@ h1 {
   font-size: 200%;
 }
 
+.credits {
+  /* Targets Heading2 elements. */
+  font-family: "Courier New", Courier, monospace;
+  font-color: black;
+  font-size: 75%;
+  text-indent: 50px;
+  letter-spacing: 0.2em;
+}
+
 p {
   /* Targets ALL paragraph elements. */
    font-family: Georgia, Times, serif;
