@@ -6,17 +6,17 @@ body {
 
 @font-face {
   font-family: 'Halant';
-  src: url('fonts/._Halant-Regular.ttf') format('truetype')
+  src: url('fonts/Halant-Regular.ttf') format('truetype')
 }
 
 @font-face {
-  font-family: 'Nunito_Sans';
-  src: url('fonts/._NunitoSans-Regular.ttf') format('truetype')
+  font-family: 'NunitoSans-Regular';
+  src: url('fonts/NunitoSans-Regular.ttf') format('truetype')
 }
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: "Halant", Georgia, Times, serif;
+  font-family: "Halant-Regular", Georgia, Times, serif;
   font-color: black;
   font-size: 190%;
 }
