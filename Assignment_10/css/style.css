@@ -6,12 +6,12 @@ body {
 
 @font-face {
   font-family: 'COPRGTL';
-  src: url('fonts/COPRGTL.TTF')
+  src: url('fonts/COPRGTL.TTF') format('truetype')
 }
 
 @font-face {
   font-family: 'OldeEnglish';
-  src: url('fonts/OldeEnglish.ttf')
+  src: url('fonts/OldeEnglish.ttf') format('truetype')
 }
 
 h1 {
