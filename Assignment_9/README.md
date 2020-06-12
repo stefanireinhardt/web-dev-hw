@@ -9,7 +9,7 @@ The **class selector** matches an element whose class attribute has a value that
 
 Just like the **class selector**, the **ID selector** allows developers to define style rules for a specific element by calling its unique ID. ID names are prepended with a number sign (#).
 
-I pulled the following three colors from a 60s [_print_](https://meganmcnulty.nl/) and _VOGUE_ photograph I found online and used their hex codes in my css stylesheet:\
+I pulled the following three colors from a 60s [_print_](https://meganmcnulty.nl/) and _VOGUE_ photograph I found online and used their hex codes in my css stylesheet:
 
 **1.** Light Bluish Purple (Background): #636caa\
 **2.** 60s Burnt Orange (Element Background): #e65525\
