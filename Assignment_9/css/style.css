@@ -38,9 +38,6 @@ p {
 
 image {
   /* Targets images to be positoned to the left. */
-  border-radius: 25px;
-  border-color: rgba(232,184,46,0.5);
-  border: 20px;
   padding: 20px;
   width: auto;
   height: auto;
