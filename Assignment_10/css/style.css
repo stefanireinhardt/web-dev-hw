@@ -16,7 +16,7 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: COPRGTL, Georgia, Times, serif;
+  font-family: "Copperplate Gothic Light", Georgia, Times, serif;
   font-color: black;
   font-size: 200%;
 }
