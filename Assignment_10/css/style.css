@@ -5,24 +5,24 @@ body {
 }
 
 @font-face {
-  font-family: 'Halant';
-  src: url('fonts/Halant-Regular.ttf') format('truetype')
+  font-family: 'halant';
+  src: url('fonts/halant.ttf') format('truetype')
 }
 
 @font-face {
-  font-family: 'NunitoSans-Regular';
-  src: url('fonts/NunitoSans-Regular.ttf') format('truetype')
+  font-family: 'nunitosans';
+  src: url('fonts/nunitosans.ttf') format('truetype')
 }
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: "Halant-Regular", Georgia, Times, serif;
+  font-family: "halant", Georgia, Times, serif;
   font-color: black;
   font-size: 190%;
 }
 
 .credits {
-  /* Targets Heading2 elements. */
+  /* Targets Credits elements. */
   font-family: "Courier New", Courier, monospace;
   font-color: black;
   font-size: 75%;
