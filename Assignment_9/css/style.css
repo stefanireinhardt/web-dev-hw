@@ -12,7 +12,7 @@ article {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-color: #104734 !important;
+  font-color: ivory;
   font-size: 400%;
   text-align: center;
   background-color: #e65525;
@@ -20,14 +20,10 @@ h1 {
 
 p {
   /* Targets ALL paragraph elements. */
-   font-color: #fec52e;
+   font-color: ivory;
    font-size: 20px;
    text-align: center;
 }
-
-<p style = "border-width:4px; border-style:double;">
-         This is a double border.
-      </p>
 
 .container {
   background-color: rgba(255,255,255,0.5);
