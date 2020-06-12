@@ -25,12 +25,19 @@ p {
    text-align: center;
 }
 
+<p style = "border-width:4px; border-style:double;">
+         This is a double border.
+      </p>
+
 .container {
   background-color: rgba(255,255,255,0.5);
   position: center;
   width: 1075px;
   margin: auto;
   padding: 20px;
+  border-width: 4px;
+  border-style: double;
+  border-color: #fec52e;
 }
 
 image {
