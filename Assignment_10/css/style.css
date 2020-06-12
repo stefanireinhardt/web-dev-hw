@@ -5,7 +5,7 @@ body {
 }
 
 @font-face {
-  font-family: 'Copperplate Gothic Light';
+  font-family: 'COPRGTL';
   src: url('fonts/COPRGTL.TTF')
 }
 
@@ -16,7 +16,7 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: Copperplate Gothic Light, Georgia, Times, serif;
+  font-family: COPRGTL, Georgia, Times, serif;
   font-color: black;
   font-size: 200%;
 }
@@ -37,12 +37,5 @@ p {
   padding: 20px;
   border-width: 10px;
   border-style: double;
-  border-color: gold;
-}
-
-image {
-  /* Targets images to be positoned to the left. */
-  padding: 20px;
-  width: auto;
-  height: auto;
+  border-color: black;
 }
