@@ -1,0 +1,48 @@
+body {
+   /* Targets EVERY element in the body. */
+   background-color: #f7f4ee;
+   align-content: left;
+}
+
+@font-face {
+  font-family: 'CopperplateGothicLight';
+  src: url('fonts/COPRGTL.TTF')
+}
+
+@font-face {
+  font-family: 'OldeEnglish';
+  src: url('fonts/OldeEnglish.ttf')
+}
+
+h1 {
+  /* Targets Heading1 elements. */
+  font-family: CopperplateGothicLight, Georgia, Times, serif;
+  font-color: black;
+  font-size: 200%;
+}
+
+p {
+  /* Targets ALL paragraph elements. */
+   font-family: Georgia, Times, serif;
+   font-color: black;
+   font-size: 20px;
+   line-height: 1.45em;
+}
+
+.container {
+  background-color: #f7cb82;
+  position: center;
+  width: 1075px;
+  margin: auto;
+  padding: 20px;
+  border-width: 10px;
+  border-style: double;
+  border-color: gold;
+}
+
+image {
+  /* Targets images to be positoned to the left. */
+  padding: 20px;
+  width: auto;
+  height: auto;
+}
