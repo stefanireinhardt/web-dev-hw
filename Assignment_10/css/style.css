@@ -5,7 +5,7 @@ body {
 }
 
 @font-face {
-  font-family: 'CopperplateGothicLight';
+  font-family: 'Copperplate Gothic Light';
   src: url('fonts/COPRGTL.TTF')
 }
 
@@ -16,7 +16,7 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: CopperplateGothicLight, Georgia, Times, serif;
+  font-family: Copperplate Gothic Light, Georgia, Times, serif;
   font-color: black;
   font-size: 200%;
 }
