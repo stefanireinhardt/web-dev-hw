@@ -5,13 +5,13 @@ body {
 }
 
 @font-face {
-  font-family: 'COPRGTL';
-  src: url('fonts/COPRGTL.TTF') format('truetype')
+  font-family: 'Copperplate Gothic Light';
+  src: url('fonts/copperplategothiclight.ttf') format('truetype')
 }
 
 @font-face {
-  font-family: 'OldeEnglish';
-  src: url('fonts/OldeEnglish.ttf') format('truetype')
+  font-family: 'Olde English';
+  src: url('fonts/oldeenglish.ttf') format('truetype')
 }
 
 h1 {
