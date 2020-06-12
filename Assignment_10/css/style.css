@@ -1,6 +1,6 @@
 body {
    /* Targets EVERY element in the body. */
-   background-color: #892e0a;
+   background-color: #f3e0c1;
    align-content: left;
 }
 
@@ -39,12 +39,12 @@ p {
 }
 
 .container {
-  background-color: #f3e0c1;
+  background-color: ivory;
   position: center;
   width: 1075px;
   margin: auto;
   padding: 50px;
   border-width: 10px;
   border-style: double;
-  border-color: black;
+  border-color: #6f5428;
 }
