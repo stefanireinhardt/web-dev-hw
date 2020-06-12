@@ -13,7 +13,7 @@ h1 {
 
 .credits {
   /* Targets Credits elements. */
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Nunito Sans', sans-serif;
   font-color: black;
   font-size: 75%;
   text-indent: 50px;
