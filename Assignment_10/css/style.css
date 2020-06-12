@@ -5,25 +5,25 @@ body {
 }
 
 @font-face {
-  font-family: 'Copperplate Gothic Light';
-  src: url('fonts/copperplategothiclight.ttf') format('truetype')
+  font-family: 'Halant';
+  src: url('fonts/._Halant-Regular.ttf') format('truetype')
 }
 
 @font-face {
-  font-family: 'oldeenglish';
-  src: url('fonts/oldeenglish.ttf') format('truetype')
+  font-family: 'Nunito_Sans';
+  src: url('fonts/._NunitoSans-Regular.ttf') format('truetype')
 }
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: "Copperplate Gothic Light", Georgia, Times, serif;
+  font-family: "Halant", Georgia, Times, serif;
   font-color: black;
   font-size: 190%;
 }
 
 .credits {
   /* Targets Heading2 elements. */
-  font-family: "oldeenglish", Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-color: black;
   font-size: 75%;
   text-indent: 50px;
@@ -32,7 +32,7 @@ h1 {
 
 p {
   /* Targets ALL paragraph elements. */
-   font-family: Georgia, Times, serif;
+   font-family: "Nunito_Sans", Georgia, Times, serif;
    font-color: black;
    font-size: 20px;
    line-height: 1.45em;
