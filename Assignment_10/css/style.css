@@ -10,7 +10,7 @@ body {
 }
 
 @font-face {
-  font-family: 'Olde English';
+  font-family: 'oldeenglish';
   src: url('fonts/oldeenglish.ttf') format('truetype')
 }
 
@@ -19,11 +19,12 @@ h1 {
   font-family: "Copperplate Gothic Light", Georgia, Times, serif;
   font-color: black;
   font-size: 200%;
+  text-align: center;
 }
 
 .credits {
   /* Targets Heading2 elements. */
-  font-family: "Courier New", Courier, monospace;
+  font-family: "oldeenglish", Courier, monospace;
   font-color: black;
   font-size: 75%;
   text-indent: 50px;
