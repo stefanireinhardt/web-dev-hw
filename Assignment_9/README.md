@@ -3,7 +3,7 @@
 
 The **universal selector** is used to style _every_ element on a page. The **universal selector** is the star (\*) and is often used in computer science to mean “all.” One might use this one over the **element selector** if they want to keep the same paragraph or text format throughout the webpage and don't desire a change between sections.
 
-The **element selector** is used to select all elements of a certain type such as **<p>**.  This selector could be utilized to keep the same style format for a single element  like a header to differentiate between it and the content as well as create a certain flow.
+The **element selector** is used to select all elements of a certain type such as **h1**.  This selector could be utilized to keep the same style format for a single element  like a header to differentiate between it and the content as well as create a certain flow.
 
 The **class selector** matches an element whose class attribute has a value that matches the one specified after the period (.) symbol.  The **class selector** is similar to the **element selector** in that it allows a user to target an element or section and apply a certain set of attributes.
 
