@@ -7,8 +7,8 @@ body {
 h1 {
   /* Targets Heading1 elements. */
   font-family: 'Halant', Georgia, serif;
-  font-color: #6f5428 !important;
-  font-size: 275%;
+  font-color: #6f5428;
+  font-size: 250%;
   line-height: 1em;
 }
 

@@ -9,7 +9,7 @@
 /* Completed for the "Heading" font: */
 @font-face {
   font-family: 'Halant';
-  src: url('../fonts/Halant-SemiBold.ttf') format('opentype');
+  src: url('../fonts/Halant-Regular.ttf') format('opentype');
   font-weight: bold;
   font-style: italic;
 }
