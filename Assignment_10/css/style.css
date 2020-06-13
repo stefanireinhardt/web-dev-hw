@@ -15,9 +15,8 @@ h1 {
   /* Targets Credits elements. */
   font-family: 'AmaticSC', Courier, monospace;
   font-color: black;
-  font-size: 75%;
+  font-size: 100%;
   text-indent: 50px;
-  letter-spacing: 1em;
 }
 
 .copyright {
