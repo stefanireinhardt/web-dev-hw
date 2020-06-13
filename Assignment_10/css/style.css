@@ -6,7 +6,7 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: 'Halant-BoldItalic', Georgia, serif;
+  font-family: 'Halant', Georgia, serif;
   font-color: #6f5428;
   font-size: 190%;
 }
@@ -15,7 +15,7 @@ h1 {
   /* Targets Credits elements. */
   font-family: 'AmaticSC', Courier, monospace;
   font-color: black;
-  font-size: 250%;
+  font-size: 190%;
   text-indent: 50px;
 }
 
@@ -25,6 +25,7 @@ h1 {
   font-color: #6f5428;
   font-size: 200%;
   text-decoration: underline;
+  letter-spacing: 0.5em;
 }
 
 p {
