@@ -18,7 +18,7 @@
 @font-face {
   font-family: 'Halant';
   src: url('../fonts/Halant-Light.ttf') format('opentype');
-  font-weight: bold;
+  font-weight: bolder;
   font-style: oblique;
 }
 
