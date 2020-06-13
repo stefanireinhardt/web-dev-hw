@@ -33,7 +33,7 @@ p.intro:first-letter {
   font-color: #6f5428;
   font-size: 200%;
   text-decoration: underline;
-  letter-spacing: 0.5em;
+  letter-spacing: 0.2em;
 }
 
 p {
