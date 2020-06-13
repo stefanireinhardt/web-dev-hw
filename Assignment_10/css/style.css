@@ -12,10 +12,10 @@ h1 {
   line-height: 1em;
 }
 
-p.intro:first-letter {
+p.intro::first-letter {
   /* Targets First Letter in Paragraph */
   font-family: 'OldeEnglish', Courier, monospace;
-  font-size: 300%;
+  font-size: 200%;
   font-weight: bold;
 }
 
