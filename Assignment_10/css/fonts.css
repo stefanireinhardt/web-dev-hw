@@ -21,3 +21,11 @@
   font-weight: bold;
   font-style: oblique;
 }
+
+/* Completed for the "First Letter in Paragraph" font: */
+@font-face {
+  font-family: 'OldeEnglish';
+  src: url('../fonts/OldeEnglish.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
