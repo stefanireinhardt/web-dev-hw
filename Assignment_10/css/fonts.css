@@ -6,20 +6,20 @@
   font-style: normal;
 }
 
+/* Completed for the "Heading" font: */
+@font-face {
+  font-family: 'Halant';
+  src: url('../fonts/Halant-Light.ttf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
 /* Completed for the "Credits" font: */
 @font-face {
   font-family: 'AmaticSC';
   src: url('../fonts/AmaticSC-Regular.ttf') format('opentype');
   font-weight: normal;
   font-style: normal;
-}
-
-/* Completed for the "Heading" font: */
-@font-face {
-  font-family: 'Halant';
-  src: url('../fonts/Halant-Light.ttf') format('opentype');
-  font-weight: bolder;
-  font-style: oblique;
 }
 
 /* Completed for the "First Letter in Paragraph" font: */
