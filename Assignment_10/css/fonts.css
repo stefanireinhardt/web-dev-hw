@@ -8,10 +8,10 @@
 
 /* Completed for the "Heading" font: */
 @font-face {
-  font-family: 'Halant';
-  src: url('../fonts/Halant-Regular.ttf') format('opentype');
-  font-weight: bold;
-  font-style: italic;
+  font-family: 'Philosopher';
+  src: url('../fonts/Philosopher-BoldItalic.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 /* Completed for the "Credits" font: */
