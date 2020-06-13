@@ -1,0 +1,23 @@
+/* Completed for the "Body" font: */
+@font-face {
+  font-family: 'NunitoSans';
+  src: url('../fonts/NunitoSans-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Completed for the "Credits" font: */
+@font-face {
+  font-family: 'AmaticSC';
+  src: url('../fonts/AmaticSC-Regular.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Completed for the "Heading" font: */
+@font-face {
+  font-family: 'Halant';
+  src: url('../fonts/Halant-Bold.ttf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}

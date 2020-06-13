@@ -6,14 +6,14 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: 'halant', Georgia, Times, serif;
+  font-family: 'Halant', Georgia, Times, serif;
   font-color: black;
   font-size: 190%;
 }
 
 .credits {
   /* Targets Credits elements. */
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'AmaticSC', Courier, monospace;
   font-color: black;
   font-size: 75%;
   text-indent: 50px;
@@ -22,7 +22,7 @@ h1 {
 
 p {
   /* Targets ALL paragraph elements. */
-   font-family: 'Nunito Sans', sans-serif;
+   font-family: 'NunitoSans', Georgia, serif;
    font-color: black;
    font-size: 20px;
    line-height: 1.45em;
