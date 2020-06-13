@@ -6,7 +6,7 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: 'Halant', Georgia, serif;
+  font-family: 'Halant-BoldItalic', Georgia, serif;
   font-color: #6f5428;
   font-size: 190%;
 }
@@ -15,7 +15,7 @@ h1 {
   /* Targets Credits elements. */
   font-family: 'AmaticSC', Courier, monospace;
   font-color: black;
-  font-size: 100%;
+  font-size: 250%;
   text-indent: 50px;
 }
 

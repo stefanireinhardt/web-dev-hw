@@ -10,14 +10,14 @@
 @font-face {
   font-family: 'AmaticSC';
   src: url('../fonts/AmaticSC-Regular.ttf') format('opentype');
-  font-weight: bold;
+  font-weight: normal;
   font-style: normal;
 }
 
 /* Completed for the "Heading" font: */
 @font-face {
-  font-family: 'Halant';
-  src: url('../fonts/Halant-Bold.ttf') format('opentype');
-  font-weight: bold;
+  font-family: 'NunitoSans';
+  src: url('../fonts/NunitoSans-BoldItalic.ttf') format('opentype');
+  font-weight: normal;
   font-style: normal;
 }
