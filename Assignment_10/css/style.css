@@ -49,9 +49,9 @@ p.intro:first-letter {
   background-color: ivory;
   position: center;
   width: 975px;
-  margin: 100px;
+  margin: auto;
   padding: 75px;
   border-width: 10px;
   border-style: double;
-  border-color: #6f5428;
+  border-color: #710c0c;
 }
