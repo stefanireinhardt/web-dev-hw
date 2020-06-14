@@ -7,7 +7,7 @@ body {
 h1 {
   /* Targets Heading1 elements. */
   font-family: 'PrinceValiant', palatino, serif;
-  color: #b17b45;
+  color: #710c0c;
   font-size: 240%;
   line-height: 2em;
 }
@@ -23,8 +23,8 @@ h1 {
 
 .copyright {
   /* Targets Copyright element. */
-  font-family: 'AmaticSC', Courier, monospace;
-  color: black;
+  font-family: 'NunitoSans', Courier, monospace;
+  color: #710c0c;
   font-size: 200%;
   text-decoration: underline;
   letter-spacing: 0.2em;
