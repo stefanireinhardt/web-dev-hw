@@ -7,9 +7,10 @@ body {
 h1 {
   /* Targets Heading1 elements. */
   font-family: 'PrinceValiant', palatino, serif;
-  color: #710c0c;
+  color: black;
   font-size: 240%;
   line-height: 2em;
+  text-indent: 25px;
 }
 
 .credits {
@@ -24,7 +25,7 @@ h1 {
 .copyright {
   /* Targets Copyright element. */
   font-family: 'AmaticSC', Courier, monospace;
-  color: #710c0c;
+  color: black;
   font-size: 225%;
   text-decoration: underline;
 }
