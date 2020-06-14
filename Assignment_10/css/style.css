@@ -47,6 +47,7 @@ p.intro:first-letter {
 }
 
 .container {
+/* Targets Container Elements */
   background-color: ivory;
   position: center;
   width: 975px;
@@ -55,4 +56,16 @@ p.intro:first-letter {
   border-width: 10px;
   border-style: double;
   border-color: #710c0c;
+}
+
+a:link {
+/* Targets all Linked Elements */
+   color: black;
+   text-decoration: none;
+}
+
+a:hover {
+/* Targets all Linked Elements */
+   color: #b30a0a;
+   font-style: italic;
 }
