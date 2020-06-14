@@ -41,7 +41,7 @@ p.intro:first-letter {
   /* Targets First Letter in Paragraph */
   font-family: 'OldeEnglish', Courier, monospace;
   font-size: 250%;
-  font-color: #6f5428;
+  color: #b30a0a;
 }
 
 .container {
