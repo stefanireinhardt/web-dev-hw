@@ -6,16 +6,16 @@ body {
 
 h1 {
   /* Targets Heading1 elements. */
-  font-family: 'PrinceValiant', Georgia, serif;
-  font-color: #6f5428;
-  font-size: 210%;
-  line-height: 1em;
+  font-family: 'PrinceValiant', palatino, serif;
+  color: #6f5428;
+  font-size: 250%;
+  line-height: 2em;
 }
 
 .credits {
   /* Targets Credits elements. */
   font-family: 'AmaticSC', Courier, monospace;
-  font-color: black;
+  color: black;
   font-size: 190%;
   text-indent: 50px;
 }
@@ -23,7 +23,7 @@ h1 {
 .copyright {
   /* Targets Copyright element. */
   font-family: 'AmaticSC', Courier, monospace;
-  font-color: #6f5428;
+  color: #6f5428;
   font-size: 200%;
   text-decoration: underline;
   letter-spacing: 0.2em;
@@ -32,7 +32,7 @@ h1 {
 p {
   /* Targets ALL paragraph elements. */
    font-family: 'NunitoSans', Georgia, serif;
-   font-color: black;
+   color: black;
    font-size: 20px;
    line-height: 1.45em;
 }
