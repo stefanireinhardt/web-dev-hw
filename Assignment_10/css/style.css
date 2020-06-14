@@ -18,16 +18,15 @@ h1 {
   color: black;
   font-size: 190%;
   text-indent: 50px;
-   line-height: 3em;
+  line-height: 3em;
 }
 
 .copyright {
   /* Targets Copyright element. */
-  font-family: 'NunitoSans', Courier, monospace;
+  font-family: 'AmaticSC', Courier, monospace;
   color: #710c0c;
-  font-size: 200%;
+  font-size: 225%;
   text-decoration: underline;
-  letter-spacing: 0.2em;
 }
 
 p {
