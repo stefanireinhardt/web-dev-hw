@@ -49,7 +49,7 @@ p.intro:first-letter {
   background-color: ivory;
   position: center;
   width: 975px;
-  margin: auto;
+  margin: 100px;
   padding: 75px;
   border-width: 10px;
   border-style: double;
