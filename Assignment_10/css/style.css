@@ -18,7 +18,7 @@ h1 {
   color: black;
   font-size: 190%;
   text-indent: 50px;
-   line-height: 5em;
+   line-height: 3em;
 }
 
 .copyright {
@@ -41,8 +41,8 @@ p {
 p.intro:first-letter {
   /* Targets First Letter in Paragraph */
   font-family: 'OldeEnglish', Courier, monospace;
-  font-size: 500%;
-  color: #b30a0a;
+  font-size: 350%;
+  color: #710c0c;
   text-indent: 50px;
 }
 
