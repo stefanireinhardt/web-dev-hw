@@ -42,7 +42,7 @@ p.intro:first-letter {
   /* Targets First Letter in Paragraph */
   font-family: 'OldeEnglish', Courier, monospace;
   font-size: 350%;
-  color: #710c0c;
+  color: #d31a1a;
   text-indent: 50px;
 }
 
@@ -55,7 +55,7 @@ p.intro:first-letter {
   padding: 75px;
   border-width: 10px;
   border-style: double;
-  border-color: #710c0c;
+  border-color: #d31a1a;
 }
 
 a:link {
