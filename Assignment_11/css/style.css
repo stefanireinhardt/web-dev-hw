@@ -62,6 +62,15 @@ a:hover {
   style: italic;
 }
 
+.quotes {
+  /* Targets Quote elements. */
+  font-family: 'Arial Narrow Italic', Verdana, sans-serif;
+  color: #f05815;
+  font-size: 100%;
+  text-indent: 50px;
+  line-height: 1.4em;
+}
+
    .container {
    /* Targets Container Elements */
      background-color: #ffffff;
