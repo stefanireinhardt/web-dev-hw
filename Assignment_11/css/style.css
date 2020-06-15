@@ -64,9 +64,6 @@ a:hover {
 
 .quotes {
   /* Targets Quote elements. */
-  position: absolute;
-  top: 800px;
-  left: 0px;
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
   color: #f05815;
   font-size: 100%;
@@ -76,8 +73,10 @@ a:hover {
 
    .container {
    /* Targets Container Elements */
+     position: absolute;
+     top: 400px;
+     left: 0px;
      background-color: #ffffff;
-     position: center;
      width: 1000px;
      margin: auto;
      padding: 75px;
