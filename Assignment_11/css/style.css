@@ -24,14 +24,14 @@ nav {
   font-family: 'Arial Narrow', Verdana, sans-serif;
   color: #ffffff;
   font-size: 165%;
-  padding-top: 70px;
+  padding-top: 50px;
   text-transform: uppercase;
 }
 
 .title {
     position: relative;
-    top: 275px;
-    left: 50px;
+    top: 50px;
+    left: 0px;
     font-size: 325%;
     color: #ffffff;
 }
