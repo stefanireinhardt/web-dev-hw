@@ -8,9 +8,8 @@ h1 {
   /* Targets Heading1 elements. */
   font-family: 'Baskerville', Times, serif;
   color: #ffffff;
-  font-size: 500%;
+  font-size: 485%;
   line-height: 2em;
-  text-align: center;
 }
 
 .image {
@@ -83,9 +82,9 @@ header {
 }
 
 /* Set the layout of the menu: */
-.menu-item, .site-name {
+.menu-item {
     display: inline-block;
-    margin: 1em .2em;
+    margin: 0.5em .2em;
     min-width: 0.5em;
     text-align: center;
     background-color: #345a80;
@@ -106,8 +105,8 @@ header {
 /* Style the Main Content: */
 .site-name {
     position: fixed;
-    top: 100px;
-    left: 200px;
+    top: 200px;
+    left: 400px;
     padding-right: 1em;
     color: #ffffff;
 }
