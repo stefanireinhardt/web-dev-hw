@@ -21,6 +21,13 @@ nav {
   text-transform: uppercase;
 }
 
+.title {
+    position: relative;
+    top: 4em;
+    left: 50px;
+    color: #ffffff;
+}
+
 .feature {
 /* Targets Selected Images */
 width: 1000px;
