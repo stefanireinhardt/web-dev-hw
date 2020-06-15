@@ -39,6 +39,7 @@ nav {
 .feature {
 /* Targets Selected Images */
 width: 1000px;
+margin-top: 150px;
 border-bottom-style: solid;
 border-bottom-color: #f05815;
 border-bottom-width: 6px;
