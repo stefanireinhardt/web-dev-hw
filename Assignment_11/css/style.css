@@ -15,10 +15,19 @@ div {
 
 nav {
   /* Targets All Navigation Elements */
+  font-family: 'Arial Narrow', Verdana, sans-serif;
   color: #ffffff;
-  font-size: 225%;
+  font-size: 200%;
   padding: 25px;
+  text-transform: uppercase;
 }
+
+li {
+  /* Orders All Navigation Elements */
+  display: inline;
+  margin-right: 15px;
+}
+
    .container {
    /* Targets Container Elements */
      background-color: #ffffff;
