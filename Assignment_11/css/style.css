@@ -28,6 +28,11 @@ li {
   margin-right: 15px;
 }
 
+.li:hover {
+  color: #f05815;
+  style: italic;
+}
+
    .container {
    /* Targets Container Elements */
      background-color: #ffffff;
