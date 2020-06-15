@@ -77,10 +77,10 @@ a:hover {
      top: 556px;
      left: 100px;
      background-color: #ffffff;
-     width: 1000;
+     width: 1000px;
      margin: auto;
      padding: 75px;
-     border-width: 6px;
+     border-top-width: 6px;
      border-style: solid;
      border-color: #f05815;
    }
