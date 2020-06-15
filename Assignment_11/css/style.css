@@ -22,6 +22,14 @@ nav {
   text-transform: uppercase;
 }
 
+img {
+/* Targets Selected Images */
+position: fixed;
+border-bottom-style: solid;
+border-bottom-color: #f05815;
+border-bottom-width: 6px;  
+}
+
 li {
   /* Orders All Navigation Elements */
   display: inline;
