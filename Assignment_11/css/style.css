@@ -5,6 +5,27 @@ body {
    background-color: #c0d5eb;
    }
 
+   /* Set your header design: */
+   header {
+       position: fixed;
+       top: 0px;
+       background-color: #345a80;
+       font-family: 'Arial Narrow', Verdana, sans-serif;
+       font-size: 250%;
+       color: #ffffff;
+       text-transform: uppercase;
+       margin-top: 0;
+       height: 3em;
+       width: auto;
+       text-align: auto;
+   }
+
+#content {
+  overflow: visible;
+  height: 100%;
+  color: #ffffff;
+}
+
 #nav, #footer {
 background-color: #345a80;
 padding: 10px;
@@ -12,9 +33,9 @@ margin: 10px;
 color: #ffffff;
 }
 
-.li {
+li {
 display: inline;
-padding: 10px;
+padding: 5px;
 }
 
 .li a {
@@ -79,21 +100,6 @@ p {
    color: black;
    font-size: 20px;
    line-height: 1.4em;
-}
-
-/* Set your header design: */
-header {
-    position: fixed;
-    top: 0px;
-    background-color: #345a80;
-    font-family: 'Arial Narrow', Verdana, sans-serif;
-    font-size: 250%;
-    color: #ffffff;
-    text-transform: uppercase;
-    margin-top: 0;
-    height: 3em;
-    width: 100%;
-    text-align: auto;
 }
 
 /* Style the Main Content: */
