@@ -1,0 +1,112 @@
+body {
+   /* Targets EVERY element in the body. */
+   background-color: #c0d5eb;
+   align-content: left;
+}
+
+h1 {
+  /* Targets Heading1 elements. */
+  font-family: 'Baskerville', Times, serif;
+  color: #ffffff;
+  font-size: 240%;
+  line-height: 2em;
+  text-align: center;
+}
+
+.image {
+  /* Targets Image elements. */
+    border-bottom-style: solid;
+    border-bottom-color: #f05815;
+    border-bottom-width: 6px;
+}
+
+.shadow {
+  /* Adds Shadows to selected elements. */
+  -moz-box-shadow: 3px 3px 3px 3px #777777;
+  -webkit-box-shadow: 3px 3px 3px 3px #777777;
+  box-shadow: 3px 3px 3px 3px #777777;
+}
+
+.quotes {
+  /* Targets Credits elements. */
+  font-family: 'Arial Narrow Italic', Verdana, sans-serif;
+  color: #f05815;
+  font-size: 100%;
+  text-indent: 50px;
+  line-height: 1.4em;
+}
+
+div {
+  height: 150px;
+  width: 750px;
+  background-color: rgba(255, 255, 255, 0.5)
+}
+
+.copyright {
+  /* Targets Copyright element. */
+  font-family: 'Arial Narrow', Verdana, sans-serif;
+  color: #f05815;
+  font-size: 225%;
+  text-decoration: underline;
+}
+
+p {
+  /* Targets ALL paragraph elements. */
+   font-family: 'Arial Narrow', Verdana, sans-serif;
+   color: black;
+   font-size: 20px;
+   line-height: 1.4em;
+}
+
+.container {
+/* Targets Container Elements */
+  background-color: #ffffff;
+  position: center;
+  width: auto;
+  margin: auto;
+  padding: 75px;
+}
+
+/* Set your header design: */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: #345a80;
+    font-family: 'Arial Narrow', Verdana, sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #345a80;
+    padding: 0.5em 1em;
+}
+
+/* Style the links: */
+.menu-item a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+.menu-item:hover {
+    background-color: #f05815;
+}
+
+a:link {
+/* Targets all Linked Elements */
+   color: #ffffff;
+   text-decoration: underline;
+}
+
+a:hover {
+/* Targets all Linked Elements */
+   color: #f05815;
+}
