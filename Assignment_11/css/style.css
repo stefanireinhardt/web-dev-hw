@@ -1,6 +1,33 @@
 body {
    /* Targets EVERY element in the body. */
-   width: 1600px;
+   width: 1200px;
    margin: 0 auto;
    background-color: #c0d5eb;
+   }
+
+.header {
+  /* Targets Everything in Header */
+  background-color: 345a80;
+  width: 1200px;
+  height: 100px;
+  }
+
+   .container {
+   /* Targets Container Elements */
+     background-color: #ffffff;
+     position: center;
+     width: 1000px;
+     margin: auto;
+     padding: 75px;
+     border-width: 10px;
+     border-style: solid;
+     border-color: #f05815;
+   }
+
+   .image {
+     /* Targets Image elements. */
+       width: 960px;
+       border-bottom-style: solid;
+       border-bottom-color: #f05815;
+       border-bottom-width: 6px;
    }
