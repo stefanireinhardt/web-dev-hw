@@ -5,6 +5,13 @@ body {
    background-color: #c0d5eb;
    }
 
+.position {
+  /* Anchor elements to top-left corner. */
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
 div {
   /* Targets Everything in Header */
   height: 150px;
