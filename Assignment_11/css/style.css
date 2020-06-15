@@ -74,8 +74,8 @@ a:hover {
    .container {
    /* Targets Container Elements */
      position: relative;
-     top: 556px;
-     left: 100px;
+     top: 0px;
+     left: 0px;
      background-color: #ffffff;
      width: 1000px;
      padding: 75px;
