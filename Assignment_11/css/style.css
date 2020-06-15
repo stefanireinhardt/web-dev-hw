@@ -3,13 +3,14 @@ body {
    width: 1200px;
    margin: 0 auto;
    background-color: #c0d5eb;
+   text-align: center;
    }
 
-.header {
+div {
   /* Targets Everything in Header */
+  height: 150px;
+  width: 1000px;
   background-color: 345a80;
-  width: 1200px;
-  height: 100px;
   }
 
    .container {
