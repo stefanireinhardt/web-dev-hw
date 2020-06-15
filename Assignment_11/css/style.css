@@ -33,6 +33,7 @@ li {
   /* Orders All Navigation Elements */
   display: inline;
   margin-right: 40px;
+  margin-left: 40px;
 }
 
 a {
