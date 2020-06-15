@@ -77,9 +77,7 @@ a:hover {
   /* Targets Author elements. */
   float: left;
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
-  font-style: italic;
   color: black;
-  align-content: right;
   font-size: 100%;
   line-height: 1.4em;
 }
