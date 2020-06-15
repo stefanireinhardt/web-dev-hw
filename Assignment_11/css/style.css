@@ -26,6 +26,7 @@ li {
   /* Orders All Navigation Elements */
   display: inline;
   margin-right: 30px;
+  padding-top: 30px;
 }
 
 a:link {
