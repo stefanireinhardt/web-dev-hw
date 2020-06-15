@@ -1,7 +1,7 @@
 body {
    /* Targets EVERY element in the body. */
    width: 1200px;
-   margin: 50px;
+   margin: 100px;
    background-color: #c0d5eb;
    }
 
@@ -74,10 +74,10 @@ a:hover {
    .container {
    /* Targets Container Elements */
      position: absolute;
-     top: 550px;
-     left: 0px;
+     top: 556px;
+     left: 100px;
      background-color: #ffffff;
-     width: auto;
+     width: 1000;
      margin: auto;
      padding: 75px;
      border-width: 6px;
