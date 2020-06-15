@@ -75,9 +75,9 @@ header {
     font-family: 'Arial Narrow', Verdana, sans-serif;
     text-transform: uppercase;
     margin-top: 0;
-    height: 4em;
+    height: 10em;
     width: 100%;
-    text-align: right;
+    text-align: auto;
 }
 
 /* Set the layout of the menu: */
