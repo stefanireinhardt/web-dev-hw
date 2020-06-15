@@ -1,7 +1,26 @@
 body {
    /* Targets EVERY element in the body. */
+   width: 960px;
+   margin: 0 auto;
    background-color: #c0d5eb;
-   align-content: left;
+   }
+
+#content {
+  overflow: auto;
+  height: 100%;
+  color: #ffffff;
+}
+
+#nav, #feature, #footer {
+background-color: #345a80;
+padding: 10px;
+margin: 10px;
+color: #ffffff;
+}
+
+li {
+display: inline;
+padding: 5px;
 }
 
 h1 {
@@ -27,7 +46,7 @@ h1 {
 }
 
 .quotes {
-  /* Targets Credits elements. */
+  /* Targets Quote elements. */
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
   color: #f05815;
   font-size: 100%;
@@ -55,15 +74,6 @@ p {
    color: black;
    font-size: 20px;
    line-height: 1.4em;
-}
-
-.container {
-/* Targets Container Elements */
-  background-color: #ffffff;
-  position: center;
-  width: auto;
-  margin: auto;
-  padding: 75px;
 }
 
 /* Set your header design: */
