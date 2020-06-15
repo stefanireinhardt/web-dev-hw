@@ -18,6 +18,6 @@
 @font-face {
   font-family: 'Arial Narrow Italic';
   src: url('../fonts/arial-narrow-italic.ttf') format('opentype');
-  font-weight: bold;
+  font-weight: normal;
   font-style: italic;
 }
