@@ -17,15 +17,15 @@ nav {
   /* Targets All Navigation Elements */
   font-family: 'Arial Narrow', Verdana, sans-serif;
   color: #ffffff;
-  font-size: 175%;
-  padding-top: 80px;
+  font-size: 165%;
+  padding-top: 70px;
   text-transform: uppercase;
 }
 
 li {
   /* Orders All Navigation Elements */
   display: inline;
-  margin-right: 50px;
+  margin-right: 40px;
 }
 
 a {
