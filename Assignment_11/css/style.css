@@ -75,6 +75,7 @@ a:hover {
 
 .author {
   /* Targets Author elements. */
+  float: left;
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
   font-style: italic;
   color: black;
