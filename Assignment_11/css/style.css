@@ -74,10 +74,10 @@ a:hover {
    .container {
    /* Targets Container Elements */
      position: absolute;
-     top: 400px;
+     top: 500px;
      left: 0px;
      background-color: #ffffff;
-     width: 1000px;
+     width: auto;
      margin: auto;
      padding: 75px;
      border-width: 6px;
