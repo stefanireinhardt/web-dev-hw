@@ -23,7 +23,9 @@ nav {
 
 .image {
 /* Targets Selected Images */
-position: fixed;
+position: relative;
+top: 0px;
+left: 0px;
 border-bottom-style: solid;
 border-bottom-color: #f05815;
 border-bottom-width: 6px;
