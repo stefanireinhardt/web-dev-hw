@@ -89,7 +89,7 @@ header {
     min-width: 0.5em;
     text-align: center;
     background-color: #345a80;
-    padding: 0.5em 0.5em;
+    padding: 10px;
 }
 
 /* Style the links: */
@@ -103,6 +103,21 @@ header {
     style: italic;
 }
 
+/* Style the Main Content: */
+.site-name {
+    position: fixed;
+    top: 100px;
+    left: 200px;
+    padding-right: 1em;
+    color: #ffffff;
+}
+.main-container {
+    margin-top: 5em;
+    padding: 1em;
+    line-height: 1.4em;
+}
+
+/* Copyright Links */
 a:link {
 /* Targets all Linked Elements */
    color: #ffffff;
