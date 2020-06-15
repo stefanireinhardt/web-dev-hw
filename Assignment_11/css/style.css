@@ -6,7 +6,7 @@ body {
    }
 
 #content {
-  overflow: auto;
+  overflow: visible;
   height: 100%;
   color: #ffffff;
 }
