@@ -23,6 +23,16 @@ display: inline;
 padding: 5px;
 }
 
+.li a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.li:hover {
+  color: #f05815;
+  style: italic;
+}
+
 h1 {
   /* Targets Heading1 elements. */
   font-family: 'Baskerville', Times, serif;
@@ -90,27 +100,6 @@ header {
     height: 3em;
     width: 100%;
     text-align: auto;
-}
-
-/* Set the layout of the menu: */
-.menu-item {
-    display: inline-block;
-    margin: 0.5em .2em;
-    min-width: 0.5em;
-    text-align: center;
-    background-color: #345a80;
-    padding: 10px;
-}
-
-/* Style the links: */
-.menu-item a {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
-.menu-item:hover {
-    color: #f05815;
-    style: italic;
 }
 
 /* Style the Main Content: */
