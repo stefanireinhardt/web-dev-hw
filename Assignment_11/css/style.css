@@ -14,7 +14,7 @@ body {
 
 .header {
   /* Targets Everything in Header */
-  height: 100px;
+  height: 200px;
   width: 1000px;
   background-color: #345a80;
   }
