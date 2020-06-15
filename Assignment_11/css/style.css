@@ -14,7 +14,7 @@ body {
 
 div {
   /* Targets Everything in Header */
-  height: 75px;
+  height: 100px;
   width: 1000px;
   background-color: #345a80;
   }
@@ -30,9 +30,9 @@ nav {
 
 .title {
     position: relative;
-    top: 100px;
+    top: 200px;
     left: 0px;
-    font-size: 325%;
+    font-size: 400%;
     color: #ffffff;
 }
 
