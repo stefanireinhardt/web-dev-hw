@@ -12,9 +12,9 @@ body {
   left: 0px;
 }
 
-.header {
+div {
   /* Targets Everything in Header */
-  height: 200px;
+  height: 100px;
   width: 1000px;
   background-color: #345a80;
   }
@@ -73,6 +73,10 @@ a:hover {
 
    .container {
    /* Targets Container Elements */
+     position: absolute;
+     top: 556px;
+     left: 100px;
+     right: 100px;
      background-color: #ffffff;
      width: 1000px;
      padding: 75px;
