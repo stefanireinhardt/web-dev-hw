@@ -71,6 +71,15 @@ a:hover {
   line-height: 1.4em;
 }
 
+.author {
+  /* Targets Author elements. */
+  font-family: 'Arial Narrow Italic', Verdana, sans-serif;
+  font-style: italic;
+  color: black;
+  font-size: 100%;
+  line-height: 1.4em;
+}
+
    .container {
    /* Targets Container Elements */
      position: relative;
