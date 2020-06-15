@@ -64,21 +64,11 @@ a:hover {
 
 .quotes {
   /* Targets Quote elements. */
-  float: left;
+  float: right;
   width: 300px;
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
-  font-style: italic;
   color: #f05815;
   font-size: 150%;
-  line-height: 1.4em;
-}
-
-.author {
-  /* Targets Author elements. */
-  float: left;
-  font-family: 'Arial Narrow Italic', Verdana, sans-serif;
-  color: black;
-  font-size: 100%;
   line-height: 1.4em;
 }
 
