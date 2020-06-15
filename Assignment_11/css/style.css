@@ -84,7 +84,7 @@ header {
 .menu-item, .site-name {
     display: inline-block;
     margin: 1em .2em;
-    min-width: 3em;
+    min-width: 190px;
     text-align: center;
     background-color: #345a80;
     padding: 0.5em 1em;
