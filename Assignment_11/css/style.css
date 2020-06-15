@@ -23,8 +23,9 @@ nav {
 
 .title {
     position: relative;
-    top: 4em;
-    left: 50px;
+    top: 500px;
+    left: 250px;
+    font-size: 300%;
     color: #ffffff;
 }
 
