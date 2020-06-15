@@ -86,10 +86,10 @@ header {
 .menu-item, .site-name {
     display: inline-block;
     margin: 1em .2em;
-    min-width: 190px;
+    min-width: 0.5em;
     text-align: center;
     background-color: #345a80;
-    padding: 0.5em 1em;
+    padding: 0.5em 0.5em;
 }
 
 /* Style the links: */
