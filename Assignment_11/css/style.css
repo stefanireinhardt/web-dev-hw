@@ -11,7 +11,7 @@ body {
   color: #ffffff;
 }
 
-#nav, #feature, #footer {
+#nav, #footer {
 background-color: #345a80;
 padding: 10px;
 margin: 10px;
@@ -33,6 +33,7 @@ h1 {
 
 .image {
   /* Targets Image elements. */
+    width: 960px;
     border-bottom-style: solid;
     border-bottom-color: #f05815;
     border-bottom-width: 6px;
