@@ -1,15 +1,9 @@
 body {
    /* Targets EVERY element in the body. */
-   width: 960px;
+   width: 1600px;
    margin: 0 auto;
    background-color: #c0d5eb;
    }
-
-#content {
-  overflow: visible;
-  height: 100%;
-  color: #ffffff;
-}
 
 #nav, #footer {
 background-color: #345a80;
@@ -18,9 +12,9 @@ margin: 10px;
 color: #ffffff;
 }
 
-li {
+.li {
 display: inline;
-padding: 5px;
+padding: 10px;
 }
 
 .li a {
