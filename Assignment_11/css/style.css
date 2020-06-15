@@ -64,6 +64,7 @@ a:hover {
 
 .quotes {
   /* Targets Quote elements. */
+  float: left;
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
   font-style: italic;
   color: #f05815;
