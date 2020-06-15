@@ -29,7 +29,7 @@ li {
   padding-top: 30px;
 }
 
-a:link {
+a {
   /* Targets All Linked Elements */
   color: #ffffff;
   text-decoration: none;
