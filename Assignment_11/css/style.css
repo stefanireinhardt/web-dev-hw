@@ -13,6 +13,12 @@ div {
   background-color: #345a80;
   }
 
+nav {
+  /* Targets All Navigation Elements */
+  color: #ffffff;
+  font-size: 225%;
+  padding: 25px;
+}
    .container {
    /* Targets Container Elements */
      background-color: #ffffff;
