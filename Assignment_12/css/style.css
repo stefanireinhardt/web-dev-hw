@@ -74,7 +74,8 @@ a:hover {
 h2 {
   /* Targets All H2 Elements */
   font-family: 'Friday Stroke', Times, serif;
-  font-size: 18pt;
+  font-size: 36pt;
   color: #f05815;
+  letter-spacing: 0.2em;
   font-style: italic;
   }
