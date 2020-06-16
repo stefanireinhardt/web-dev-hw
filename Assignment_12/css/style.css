@@ -12,3 +12,12 @@ body {
      padding: 0px;
      margin: none;
    }
+
+h1 {
+  /* Targets All H1 Elements. */
+  font-family: 'Baskerville', Times, serif;
+  color: #ffffff;
+  font-size: 36pt;
+  margin-top: 50%;
+  text-align: center;
+}
