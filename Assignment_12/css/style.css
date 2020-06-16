@@ -17,7 +17,6 @@ margin: none;
 
 .image {
   /* Targets Main Image Element */
-  position: static;
   z-index: 1;
 }
 
