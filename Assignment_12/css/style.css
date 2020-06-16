@@ -73,6 +73,16 @@ a:hover {
   border-color: #f05815;
 }
 
+.container {
+  z-index: 3;
+  position: absolute;
+  background-color: rgba(255,255,255,0.5);
+  position: center;
+  width: 80%;
+  margin-left: 40px;
+  padding: 20px;
+}
+
 .framed-element {
   /* Targets All Target Elements */
   z-index: 3;
