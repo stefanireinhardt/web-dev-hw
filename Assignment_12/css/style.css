@@ -35,3 +35,20 @@ nav {
   padding-top: 25px;
   text-transform: uppercase;
 }
+
+li {
+  /* Orders All Navigation Elements */
+  display: inline;
+  margin-left: 50px;
+}
+
+a {
+  /* Targets All Linked Elements */
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f05815;
+  style: italic;
+}
