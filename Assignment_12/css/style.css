@@ -59,9 +59,8 @@ a:hover {
   /* Targets All Container Elements */
   position: relative;
   width: 100%;
-  height: auto;
+  height: 2em;;
   padding: 10%;
-  margin-bottom: 25%;
   border-width: 6px;
   border-color: #f05815;
 }
