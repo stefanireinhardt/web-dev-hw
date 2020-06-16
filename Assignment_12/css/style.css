@@ -64,7 +64,7 @@ a:hover {
 }
 
 .container {
-  position: absolute;
+  position: relative;
   z-index: 2;
   background-color: none;
   position: center;
