@@ -46,12 +46,12 @@ li {
 
 a {
   /* Targets All Linked Elements */
-  color: #ffffff;
+  color: #f05815;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f05815;
+  color: #ffffff;
   style: italic;
 }
 
