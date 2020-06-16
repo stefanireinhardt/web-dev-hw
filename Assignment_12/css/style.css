@@ -12,6 +12,14 @@ body {
      padding: 0px;
      margin: none;
    }
+.nav-bar {
+/* Targets Navigation Bar Elements */
+width: 100%;
+height: 2em;
+border: none;
+padding: 0px;
+margin: none; 
+}
 
 .header {
   /* Targets All H1 Elements. */
