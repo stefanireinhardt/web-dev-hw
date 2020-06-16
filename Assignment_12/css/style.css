@@ -77,6 +77,7 @@ a:hover {
 .framed-element {
   /* Targets All Target Elements */
   width: 80%;
+  height: 200px;
   margin-top: 0px;
   margin-bottom: 40px;
   margin-left: 40px;
