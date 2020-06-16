@@ -14,6 +14,13 @@ body {
    }
 .nav-bar {
 /* Targets Navigation Bar Elements */
+position: fixed;
+font-family: 'Baskerville', Times, serif;
+font-size: 75pt;
+color: #ffffff;
+letter-spacing: 0.2em;
+text-shadow: 2px 2px 7px #111111;
+text-align: center;
 width: 100%;
 height: 2em;
 border: none;
