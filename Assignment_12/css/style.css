@@ -72,6 +72,11 @@ a:hover {
   border-color: #f05815;
 }
 
+legend {
+  /* Targets All Target Elements */
+  border-color: #f05815;
+}
+
 h2 {
   /* Targets All H2 Elements */
   font-family: 'PanPizza', Times, serif;
