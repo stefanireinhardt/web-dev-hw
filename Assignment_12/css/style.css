@@ -66,10 +66,11 @@ a:hover {
   position: relative;
   z-index: 3;
   background-color: none;
-  bottom: 200px;
+  bottom: 50px;
   left: 50px;
   position: center;
   width: 80%;
+  height: 400px;
   margin-left: 40px;
   padding: 3px;
 }
