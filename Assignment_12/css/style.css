@@ -72,7 +72,7 @@ a:hover {
   border-color: #f05815;
 }
 
-legend {
+.framed-element {
   /* Targets All Target Elements */
   z-index: 2;
   position: absolute;
