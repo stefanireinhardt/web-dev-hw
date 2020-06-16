@@ -74,6 +74,7 @@ a:hover {
 
 legend {
   /* Targets All Target Elements */
+  z-index: 2;
   position: absolute;
   margin-top: 60%
   margin-bottom: 5%;
