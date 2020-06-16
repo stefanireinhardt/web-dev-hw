@@ -110,6 +110,22 @@ a:hover {
   border-width: 2px;
 }
 
+.column1of2 {
+  position: absolute;
+  z-index: 6;
+  float: left;
+  width: 500px;
+  margin: 25px;
+}
+
+.column2of2 {
+  position: absolute;
+  z-index: 7;
+  float: left;
+  width: 500px;
+  margin: 25px;
+}
+
 h2 {
   /* Targets All H2 Elements */
   position: absolute;
@@ -139,12 +155,6 @@ h2 {
     letter-spacing: 0.2em;
     margin-bottom: 0px;
     }
-
-iframe {
-  float: right;
-  margin-bottom: 200px;
-  margin-right: 25px;
-}
 
   p {
     /* Targets All P Elements */
