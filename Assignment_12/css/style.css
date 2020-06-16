@@ -36,12 +36,14 @@ nav {
   padding-top: 25px;
   text-transform: uppercase;
   text-shadow: 2px 2px 7px #111111;
+  margin-left: 50px;
+  margin-top: 75px;
 }
 
 li {
   /* Orders All Navigation Elements */
   display: inline;
-  margin-left: 50px;
+  margin-right: 50px;
 }
 
 a {
