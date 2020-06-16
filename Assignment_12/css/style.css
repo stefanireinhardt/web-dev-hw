@@ -108,7 +108,7 @@ h2 {
 h3 {
   /* Targets All H3 Elements */
   position: fixed;
-  z-index:
+  z-index: 5;
   font-family: 'Arial Narrow', Verdana, sans-serif;
   font-size: 15pt;
   color: #f05815;
@@ -123,13 +123,13 @@ h3 {
 
 .column10f2 {
 float: left;
-width: 400px;
+width: 200px;
 margin: 10px;
 }
 
 .column2of2 {
   float: left;
-  width: 200px;
+  width: 400px;
   margin: 10px;
 }
 
