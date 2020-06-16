@@ -98,6 +98,7 @@ a:hover {
 h2 {
   /* Targets All H2 Elements */
   z-index: 2;
+  position: sticky;
   font-family: 'PanPizza', Times, serif;
   font-size: 36pt;
   color: #ffffff;
