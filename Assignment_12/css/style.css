@@ -18,7 +18,7 @@ body {
   position: fixed;
   font-family: 'Baskerville', Times, serif;
   font-size: 50pt;
-  background-color: rgba(240, 88, 21, 0.5) 100%;
+  background-color: rgba(240, 88, 21, 0.5);
   color: #ffffff;
   letter-spacing: 0.2em;
   text-shadow: 2px 2px 7px #111111;
