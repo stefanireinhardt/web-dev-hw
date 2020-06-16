@@ -54,3 +54,20 @@ a:hover {
   color: #f05815;
   style: italic;
 }
+
+.container {
+  /* Targets All Container Elements */
+  width: 100%;
+  height: 4em;
+  padding: 10%;
+  margin: 10%;
+  border-width: 6px;
+  border-color: #f05815;
+}
+
+h2 {
+  /* Targets All H2 Elements */
+  font-family: 'Arial Narrow', Verdana, sans-serif;
+  color: #ffffff;
+  font-size: 15pt;
+  }
