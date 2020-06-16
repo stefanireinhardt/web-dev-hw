@@ -8,7 +8,7 @@ body {
 .nav-bar {
 /* Targets Navigation Bar Elements */
 position: fixed;
-background-color: rgba(240, 88, 21, 0.5)
+color: rgba(240, 88, 21, 0.5)
 width: 100%;
 height: 2em;
 border: none;
@@ -20,11 +20,12 @@ h1 {
   /* Targets All H1 Elements. */
   position: fixed;
   font-family: 'Baskerville', Times, serif;
-  font-size: 15pt;
+  font-size: 36pt;
   color: #ffffff;
   letter-spacing: 0.2em;
   text-shadow: 2px 2px 7px #111111;
   text-align: center;
+  margin-left: 50px;
 }
 
 nav {
