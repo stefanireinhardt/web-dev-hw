@@ -66,6 +66,8 @@ a:hover {
   position: relative;
   z-index: 2;
   background-color: none;
+  bottom: 150px;
+  left: 50px;
   position: center;
   width: 80%;
   margin-left: 40px;
