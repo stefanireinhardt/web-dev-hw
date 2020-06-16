@@ -66,11 +66,10 @@ a:hover {
   position: relative;
   z-index: 3;
   background-color: none;
-  bottom: 50px;
+  bottom: 200px;
   left: 50px;
   position: center;
   width: 80%;
-  height: 400px;
   margin-left: 40px;
   padding: 3px;
 }
@@ -95,7 +94,7 @@ a:hover {
 
 h2 {
   /* Targets All H2 Elements */
-  position: relative;
+  position: absolute;
   z-index: 4;
   font-family: 'PanPizza', Times, serif;
   font-size: 28pt;
