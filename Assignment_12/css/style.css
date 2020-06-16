@@ -74,7 +74,7 @@ a:hover {
 
 .framed-element {
   /* Targets All Target Elements */
-  z-index: 2;
+  z-index: 3;
   position: absolute;
   width: 80%;
   margin-top: 40%;
@@ -85,9 +85,11 @@ a:hover {
 
 h2 {
   /* Targets All H2 Elements */
+  z-index: 2;
   font-family: 'PanPizza', Times, serif;
   font-size: 36pt;
   color: #ffffff;
   letter-spacing: 0.2em;
   font-style: italic;
+  margin-left: 50px;
   }
