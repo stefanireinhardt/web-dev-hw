@@ -5,7 +5,7 @@ body {
    background-color: black;
    }
 
-   .header {
+   .top-element {
      width: 75%;
      height: 50%;
      border: none;
@@ -13,7 +13,7 @@ body {
      margin: none;
    }
 
-h1 {
+.header {
   /* Targets All H1 Elements. */
   position: fixed;
   font-family: 'Baskerville', Times, serif;
