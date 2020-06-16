@@ -122,6 +122,10 @@ h2 {
     margin-bottom: 0px;
     }
 
+iframe {
+  float: right;
+}
+
   p {
     /* Targets All P Elements */
     font-family: 'Arial Narrow', Verdana, sans-serif;
