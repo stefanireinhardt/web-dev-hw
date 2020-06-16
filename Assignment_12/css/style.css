@@ -17,10 +17,12 @@ h1 {
   /* Targets All H1 Elements. */
   position: fixed;
   font-family: 'Baskerville', Times, serif;
+  font-size: 10%;
+  background-color: rgba(55, 67, 106, 0.5);
   color: #ffffff;
   letter-spacing: 0.2em;
   text-shadow: 2px 2px 7px #111111;
-  margin-top: 40%;
-  margin-left: 20%;
+  margin-top: 25px;
+  margin-left: 25px;
   text-align: center;
 }
