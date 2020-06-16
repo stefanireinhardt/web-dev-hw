@@ -39,6 +39,7 @@ nav {
   color: #ffffff;
   padding-top: 25px;
   text-transform: uppercase;
+  text-shadow: 2px 2px 7px #111111;
 }
 
 li {
