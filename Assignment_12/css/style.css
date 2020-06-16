@@ -9,7 +9,7 @@ body {
 /* Targets Navigation Bar Elements */
 position: fixed;
 font-family: 'Baskerville', Times, serif;
-font-size: 75pt;
+font-size: 15pt;
 color: #ffffff;
 background-color: rgba(240, 88, 21, 0.5)
 letter-spacing: 0.2em;
@@ -26,7 +26,7 @@ h1 {
   /* Targets All H1 Elements. */
   position: fixed;
   font-family: 'Baskerville', Times, serif;
-  font-size: 75pt;
+  font-size: 15pt;
   color: #ffffff;
   letter-spacing: 0.2em;
   text-shadow: 2px 2px 7px #111111;
@@ -37,7 +37,6 @@ nav {
   /* Targets All Navigation Elements */
   font-family: 'Arial Narrow', Verdana, sans-serif;
   color: #ffffff;
-  font-size: 165%;
   padding-top: 25px;
   text-transform: uppercase;
 }
