@@ -103,7 +103,7 @@ h2 {
   font-style: italic;
   margin-left: 50px;
   margin-top: 0px;
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   }
 
   p {
@@ -114,5 +114,5 @@ h2 {
     line-height: 1.4em;
     font-style: italic;
     margin-left: 40px;
-    margin-top: 0px;
+    margin-top: 40px;
     }
