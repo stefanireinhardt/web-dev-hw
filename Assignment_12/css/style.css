@@ -69,6 +69,7 @@ a:hover {
 h2 {
   /* Targets All H2 Elements */
   font-family: 'Baskerville', Times, serif;
-  font-size: 36pt;
+  font-size: 28pt;
   color: #ffffff;
+  font-style: italic;
   }
