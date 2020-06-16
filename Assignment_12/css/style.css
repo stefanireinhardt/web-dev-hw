@@ -63,8 +63,8 @@ a:hover {
 }
 
 .container {
-  z-index: 2;
   position: absolute;
+  z-index: 2;
   background-color: none;
   position: center;
   width: 80%;
@@ -84,6 +84,8 @@ a:hover {
 
 h2 {
   /* Targets All H2 Elements */
+  position: absolute;
+  z-index: 3;
   font-family: 'PanPizza', Times, serif;
   font-size: 28pt;
   color: #ffffff;
