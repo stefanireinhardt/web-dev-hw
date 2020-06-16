@@ -5,19 +5,13 @@ body {
    background-color: black;
    }
 
-   .top-element {
-     width: 75%;
-     height: 50%;
-     border: none;
-     padding: 0px;
-     margin: none;
-   }
 .nav-bar {
 /* Targets Navigation Bar Elements */
 position: fixed;
 font-family: 'Baskerville', Times, serif;
 font-size: 75pt;
 color: #ffffff;
+background-color: rgba(240, 88, 21, 0.5)
 letter-spacing: 0.2em;
 text-shadow: 2px 2px 7px #111111;
 text-align: center;
@@ -37,13 +31,6 @@ margin: none;
   letter-spacing: 0.2em;
   text-shadow: 2px 2px 7px #111111;
   text-align: center;
-}
-
-.position {
-  /* Anchor elements to top-left corner. */
-  position: relative;
-  top: 0px;
-  left: 0px;
 }
 
 nav {
