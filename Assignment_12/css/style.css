@@ -17,7 +17,8 @@ h1 {
   /* Targets All H1 Elements. */
   font-family: 'Baskerville', Times, serif;
   color: #ffffff;
-  font-size: 36pt;
-  margin-top: 50%;
+  letter-spacing: 0.2em;
+  text-shadow: 2px 2px 7px #111111;
+  margin-top: 0%;
   text-align: center;
 }
