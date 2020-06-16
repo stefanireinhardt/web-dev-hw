@@ -26,3 +26,12 @@ h1 {
   margin-left: 25px;
   text-align: center;
 }
+
+nav {
+  /* Targets All Navigation Elements */
+  font-family: 'Arial Narrow', Verdana, sans-serif;
+  color: #ffffff;
+  font-size: 165%;
+  padding-top: 25px;
+  text-transform: uppercase;
+}
