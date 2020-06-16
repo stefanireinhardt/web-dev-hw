@@ -1,0 +1,14 @@
+body {
+   /* Targets EVERY element in the body. */
+   width: 100%;
+   margin: 50px;
+   background-color: black;
+   }
+
+   .header {
+     width: auto;
+     height: 4em;
+     border: none;
+     padding: 10px;
+     margin: none;
+   }
