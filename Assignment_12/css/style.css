@@ -65,11 +65,11 @@ a:hover {
 .container {
   z-index: 2;
   position: absolute;
-  background-color: rgba(255,255,255,0.5);
+  background-color: none;
   position: center;
   width: 80%;
   margin-left: 40px;
-  padding: 20px;
+  padding: 3px;
 }
 
 .framed-element {
