@@ -122,6 +122,8 @@ a:hover {
   position: absolute;
   z-index: 7;
   float: right;
+  margin-left: 400px;
+  margin-top: 400px;
   width: 500px;
   margin: 25px;
 }
