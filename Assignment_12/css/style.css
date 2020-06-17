@@ -203,13 +203,13 @@ h2 {
 /* Dropdown Element */
 /* The dropdown container */
 .dropdown {
-  float: left;
+  float: right;
   overflow: hidden;
 }
 
 /* Dropdown button */
 .dropdown .dropbtn {
-  font-size: 16px;
+  font-size: 36pt;
   border: none;
   outline: none;
   color: white;
@@ -228,7 +228,7 @@ h2 {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: black;
+  background-color: none;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
