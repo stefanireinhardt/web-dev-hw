@@ -68,10 +68,28 @@ a:hover {
   background-color: none;
   bottom: 100px;
   left: 50px;
-  position: center;
   width: 80%;
   margin-left: 40px;
   padding: 3px;
+}
+
+.framed-contact-element {
+  /* Targets All Target Elements */
+  position: sticky;
+  z-index: 2;
+  display: inline;
+  background-color: none;
+  bottom: 25px;
+  left: 40px;
+  position: left;
+  width: 33%;
+  height: 475px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  border-style: solid;
+  border-color: #f05815;
+  border-width: 2px;
 }
 
 .framed-element {
@@ -94,25 +112,6 @@ a:hover {
 
 iframe {
   margin-left: 25px;
-}
-
-.framed-contact-element {
-  /* Targets All Target Elements */
-  position: relative;
-  z-index: 2;
-  display: inline;
-  background-color: none;
-  bottom: 25px;
-  left: 40px;
-  position: left;
-  width: 33%;
-  height: 475px;
-  margin-top: 0px;
-  margin-bottom: 40px;
-  margin-left: 40px;
-  border-style: solid;
-  border-color: #f05815;
-  border-width: 2px;
 }
 
 h2 {
