@@ -70,13 +70,14 @@ a:hover {
   left: 50px;
   width: 50%;
   margin-left: 40px;
+  margin-top: 400px;
   padding: 3px;
 }
 
 .framed-contact-element {
   /* Targets All Target Elements */
   position: sticky;
-  z-index: 3;
+  z-index: 2;
   background-color: none;
   bottom: 25px;
   left: 40px
