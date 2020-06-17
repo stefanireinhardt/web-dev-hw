@@ -76,7 +76,7 @@ a:hover {
 
 .framed-contact-element {
   /* Targets All Target Elements */
-  position: sticky;
+  position: fixed;
   z-index: 2;
   background-color: none;
   bottom: 25px;
@@ -84,7 +84,7 @@ a:hover {
   width: 33%;
   height: 400px;
   margin-top: 0px;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   margin-left: 40px;
   border-style: solid;
   border-color: #f05815;
