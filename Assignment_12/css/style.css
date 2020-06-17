@@ -74,18 +74,6 @@ a:hover {
   padding: 3px;
 }
 
-.container-contact {
-  position: sticky;
-  z-index: 3;
-  background-color: none;
-  bottom: 150px;
-  left: 50px;
-  position: center;
-  width: 80%;
-  margin-left: 40px;
-  padding: 3px;
-}
-
 .framed-element {
   /* Targets All Target Elements */
   position: relative;
