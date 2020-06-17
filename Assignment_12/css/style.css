@@ -71,7 +71,7 @@ a:hover {
   position: fixed;
   z-index: 3;
   background-color: none;
-  bottom: 25px;
+  top: 25px;
   left: 50px;
   width: 50%;
   margin-left: 40px;
