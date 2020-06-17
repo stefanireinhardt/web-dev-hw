@@ -68,7 +68,7 @@ a:hover {
 }
 
 .container {
-  position: sticky;
+  position: fixed;
   z-index: 3;
   background-color: none;
   bottom: 25px;
@@ -83,7 +83,7 @@ a:hover {
   /* Targets All Target Elements */
   position: fixed;
   z-index: 2;
-  background-color: none;
+  background-color: rgba(0, 0, 0, 0.3);
   bottom: 25px;
   left: 40px
   width: 33%;
