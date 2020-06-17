@@ -98,7 +98,7 @@ a:hover {
 
 .framed-element {
   /* Targets All Target Elements */
-  position: relative;
+  position: fixed;
   z-index: 2;
   background-color: none;
   bottom: 25px;
