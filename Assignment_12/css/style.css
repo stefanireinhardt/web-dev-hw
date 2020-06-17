@@ -110,24 +110,6 @@ a:hover {
   border-width: 2px;
 }
 
-.column1of2 {
-  position: absolute;
-  z-index: 6;
-  float: left;
-  width: 500px;
-  margin: 25px;
-}
-
-.column2of2 {
-  position: absolute;
-  z-index: 7;
-  float: right;
-  margin-left: 400px;
-  margin-top: 400px;
-  width: 500px;
-  margin: 25px;
-}
-
 h2 {
   /* Targets All H2 Elements */
   position: absolute;
