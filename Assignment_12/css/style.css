@@ -96,12 +96,12 @@ a:hover {
   position: relative;
   z-index: 2;
   background-color: none;
-  bottom: 35%;
+  bottom: 25px;
   left: 40px;
   position: center;
   width: 90%;
   height: 400px;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 25px;
   margin-left: 40px;
   border-style: solid;
