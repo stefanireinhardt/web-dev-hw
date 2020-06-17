@@ -63,7 +63,7 @@ a:hover {
 }
 
 .container {
-  position: fixed;
+  position: sticky;
   z-index: 3;
   background-color: none;
   bottom: 100px;
@@ -76,7 +76,7 @@ a:hover {
 
 .framed-contact-element {
   /* Targets All Target Elements */
-  position: fixed;
+  position: sticky;
   z-index: 2;
   background-color: none;
   bottom: 25px;
