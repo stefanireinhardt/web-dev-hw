@@ -109,10 +109,6 @@ a:hover {
   border-width: 2px;
 }
 
-iframe {
-  margin-left: 25px;
-}
-
 h2 {
   /* Targets All H2 Elements */
   position: absolute;
