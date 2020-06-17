@@ -92,6 +92,10 @@ a:hover {
   border-width: 2px;
 }
 
+iframe {
+  margin-left: 25px;
+}
+
 .framed-contact-element {
   /* Targets All Target Elements */
   position: relative;
