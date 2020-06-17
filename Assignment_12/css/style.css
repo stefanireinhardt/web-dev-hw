@@ -127,7 +127,7 @@ h2 {
   margin-bottom: 50px;
   }
 
-  h3 {
+  h3.contact {
     /* Targets All H2 Elements */
     position: absolute;
     z-index: 5;
