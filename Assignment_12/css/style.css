@@ -9,6 +9,7 @@ body {
 .nav-bar {
 /* Targets Navigation Bar Elements */
 position: fixed;
+z-index: 7;
 width: 100%;
 height: 2em;
 padding: 0px;
@@ -101,7 +102,7 @@ a:hover {
   position: center;
   width: 90%;
   height: 400px;
-  margin-top: 20px;
+  margin-top: 25px;
   margin-bottom: 25px;
   margin-left: 40px;
   border-style: solid;
