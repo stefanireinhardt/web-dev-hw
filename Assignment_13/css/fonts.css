@@ -24,8 +24,8 @@
 
 /* Completed for the "H2" font: */
 @font-face {
-  font-family: 'Arial Narrow Bold Italic';
-  src: url('../fonts/arial-narrow-bold-italic.ttf') format('opentype');
+  font-family: 'Autography';
+  src: url('../fonts/autography.ttf') format('opentype');
   font-weight: normal;
   font-style: bold;
 }
