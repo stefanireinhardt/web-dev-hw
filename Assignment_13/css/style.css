@@ -2,7 +2,6 @@ body {
    /* Targets EVERY element in the body. */
    width: 1624px;;
    height: 2299px;
-   margin: 0px;
    background-color: #ffffff;
    }
 
@@ -59,11 +58,10 @@ h1 {
   /* Targets All H1 Elements. */
   position: absolute;
   font-family: 'VOGUE', Times, serif;
-  font-size: 36pt;
+  font-size: 72pt;
   color: #ffffff;
   letter-spacing: 0.2em;
   text-shadow: 2px 2px 7px #111111;
-  text-align: center;
   margin-left: 50px;
 }
 
