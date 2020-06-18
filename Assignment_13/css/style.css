@@ -18,7 +18,6 @@ bottom: 200px;
 
 .background {
   /* Targets Main Image Element */
-  position: fixed;
   z-index: 2;
 }
 
