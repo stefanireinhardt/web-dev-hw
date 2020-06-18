@@ -93,9 +93,10 @@ h2 {
   position: absolute;
   z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
-  width: 500px;
+  width: 750px;
   height: auto;
   margin-top: 850px;
+  margin-left: 100px;
   margin-bottom: 100px;
   margin-right: 100px;
 }
