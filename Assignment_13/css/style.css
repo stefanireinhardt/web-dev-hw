@@ -64,7 +64,7 @@ h1 {
   position: absolute;
   z-index: 4;
   font-family: 'VOGUE', Times, serif;
-  font-size: 48pt;
+  font-size: 44pt;
   color: #ffffff;
   letter-spacing: 0.2em;
   padding-top: 100px;
@@ -73,7 +73,7 @@ h1 {
   padding-bottom: 25px;
   background-color: rgba(47, 119, 106, 0.3);
   margin-top: 100px;
-  margin-left: 100px;
+  margin-left: 90px;
 }
 
 .framed-element {
