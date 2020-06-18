@@ -9,6 +9,7 @@ body {
      /* Targets Main Image Element */
      z-index: 2;
      position: absolute;
+     align-content: center;
      width: auto;
      margin-top: 50px;
      margin-left: 50px;
