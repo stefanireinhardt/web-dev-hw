@@ -76,7 +76,7 @@ h2 {
     letter-spacing: 0em;
   }
 
-.framed-element {
+.framed-element-index {
   /* Targets All Target Elements */
   position: absolute;
   z-index: 3;
@@ -86,6 +86,18 @@ h2 {
   margin-top: 500px;
   margin-bottom: 100px;
   margin-left: 90px;
+}
+
+.framed-element-about {
+  /* Targets All Target Elements */
+  position: absolute;
+  z-index: 3;
+  background-color: rgba(47, 119, 106, 0.3);
+  width: 395px;
+  height: auto;
+  margin-top: 600px;
+  margin-bottom: 100px;
+  margin-left: 290px;
 }
 
 .framed-contact-element {
