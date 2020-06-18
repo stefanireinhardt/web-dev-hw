@@ -65,6 +65,9 @@ h1 {
   letter-spacing: 0.2em;
   padding-top: 100px;
   padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  background-color: rgba(47, 119, 106, 0.3);
 }
 
 .framed-element {
@@ -72,10 +75,8 @@ h1 {
   position: absolute;
   z-index: 2;
   background-color: rgba(47, 119, 106, 0.3);
-  left: 40px;
   width: 600px;
-  height: 1950px;
-  margin-top: 125px;
+  height: 1000px;
   margin-bottom: 100px;
   margin-left: 100px;
 }
@@ -117,9 +118,10 @@ h2 {
     font-size: 15pt;
     color: #ffffff;
     line-height: 1.4em;
-    padding-top: 400px;
+    padding-top: 25px;
     padding-left: 25px;
     padding-right: 25px;
+    padding-bottom: 25px;
     }
 
 /* Dropdown Element */
