@@ -19,7 +19,7 @@ body {
 /* Targets Navigation Bar Elements */
 position: absolute;
 z-index: 7;
-width: 50px;
+width: 100px;
 height: 50px;
 right: 25px;
 bottom: 250px;
