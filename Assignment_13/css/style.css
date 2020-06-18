@@ -81,9 +81,9 @@ h1 {
   position: absolute;
   z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
-  width: 600px;
+  width: 575px;
   height: 1000px;
-  margin-top: 600px;
+  margin-top: 800px;
   margin-bottom: 100px;
   margin-left: 100px;
 }
