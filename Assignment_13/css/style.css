@@ -38,9 +38,9 @@ li {
   /* Orders All Navigation Elements */
   display: block;
   font-family: 'Arial Narrow', Verdana, sans-serif;
-  font-size: 24pt;
+  font-size: 20pt;
   max-width: 250px;
-  line-height: 1.4em;
+  line-height: 1em;
   color: #ffffff;
   text-transform: uppercase;
 }
