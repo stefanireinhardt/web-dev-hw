@@ -8,12 +8,16 @@ body {
 
 .nav-bar {
 /* Targets Navigation Bar Elements */
-position: fixed;
 z-index: 7;
 width: 100%;
 height: 2em;
 padding: 0px;
 margin: none;
+}
+
+.nav-bar.home {
+  /*Targets Navigation Bar on Home Page */
+
 }
 
 .background {
@@ -181,7 +185,7 @@ h2 {
 
 /* Add a grey background color to dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #cfcbc9;
+  background-color: #ffffff;
 }
 
 /* Show the dropdown menu on hover */
