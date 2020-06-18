@@ -50,6 +50,14 @@ h2 {
   letter-spacing: 0.2em;
   }
 
+  h2.intro:first-letter {
+    /* Targets First Letter in Paragraph */
+    font-family: 'Autography', Verdana, sans-serif;
+    font-size: 36pt;
+    color: #2f776a;
+    text-indent: 50px;
+  }
+
 .framed-element {
   /* Targets All Target Elements */
   position: absolute;
