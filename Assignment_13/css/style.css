@@ -96,9 +96,7 @@ h2 {
       /* Targets All Navigation Elements */
       position: absolute;
       z-index: 7;
-      text-align: center;
-      width: auto;
-      height: auto;
+      text-align: left;
       right: 50px;
       top: 595px;
     }
