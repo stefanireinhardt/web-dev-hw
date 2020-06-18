@@ -140,7 +140,7 @@ h2 {
   font-size: 36pt;
   border: none;
   outline: none;
-  color: black;
+  color: none;
   padding: 7px 8px;
   background-color: none;
   font-family: inherit; /* Important for vertical align on mobile phones */
@@ -156,7 +156,7 @@ h2 {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #cfcbc9;
+  background-color: black;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
