@@ -156,7 +156,10 @@ h2 {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: black;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #cfcbc9;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
