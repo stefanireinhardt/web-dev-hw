@@ -60,9 +60,10 @@ h1 {
   /* Targets All H1 Elements. */
   position: absolute;
   font-family: 'VOGUE', Times, serif;
-  font-size: 106pt;
+  font-size: 74pt;
   color: #ffffff;
   letter-spacing: 0.2em;
+  margin-top: 100px;
   margin-left: 50px;
 }
 
