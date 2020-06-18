@@ -65,17 +65,6 @@ h1 {
   margin-left: 50px;
 }
 
-.container {
-  position: fixed;
-  z-index: 3;
-  top: 15%;
-  left: 7%;
-  width: 35%;
-  margin-left: 7%;
-  margin-top: 15%;
-  padding: 3px;
-}
-
 .framed-element {
   /* Targets All Target Elements */
   position: absolute;
