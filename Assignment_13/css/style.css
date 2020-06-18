@@ -1,7 +1,7 @@
 body {
    /* Targets EVERY element in the body. */
    width: 1074px;
-   height: auto;
+   height: 1566px;
    background-color: #ffffff;
    }
 
@@ -13,7 +13,7 @@ body {
      margin-top: 25px;
      margin-left: 25px;
      margin-right: 25px;
-     margin-bottom: 50px;
+     margin-bottom: 25px;
      box-shadow: -10px 10px 25px #888888;
    }
 
