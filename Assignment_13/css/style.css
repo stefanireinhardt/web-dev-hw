@@ -19,6 +19,9 @@ bottom: 200px;
 .background {
   /* Targets Main Image Element */
   z-index: 2;
+  position: absolute;
+  margin-top: 75px;
+  margin-left: 75px;
 }
 
 h1 {
