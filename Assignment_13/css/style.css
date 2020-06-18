@@ -133,9 +133,6 @@ h2 {
 /* Dropdown button */
 .dropdown .dropbtn {
   font-size: 36pt;
-  border: none;
-  outline: none;
-  color: none;
   padding: 7px 8px;
   background-color: none;
   font-family: inherit; /* Important for vertical align on mobile phones */
@@ -144,7 +141,7 @@ h2 {
 
 /* Adds background color to navbar links on hover */
 .navbar .dropdown:hover .dropbtn {
-  color: #ffffff;
+  color: black;
 }
 
 /* Dropdown content (hidden by default) */
