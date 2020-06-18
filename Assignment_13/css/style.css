@@ -60,7 +60,7 @@ h1 {
   /* Targets All H1 Elements. */
   position: absolute;
   font-family: 'VOGUE', Times, serif;
-  font-size: 74pt;
+  font-size: 68pt;
   color: #ffffff;
   letter-spacing: 0.2em;
   margin-top: 100px;
@@ -73,7 +73,7 @@ h1 {
   z-index: 2;
   background-color: rgba(47, 119, 106, 0.3);
   left: 40px;
-  width: 590px;
+  width: 600px;
   height: 1950px;
   margin-top: 125px;
   margin-bottom: 100px;
