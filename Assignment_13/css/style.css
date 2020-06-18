@@ -22,41 +22,6 @@ body {
   box-shadow: -10px 10px 25px #888888;
 }
 
-nav {
-  /* Targets All Navigation Elements */
-  position: absolute;
-  z-index: 7;
-  text-align: left;
-  width: auto;
-  height: auto;
-  right: 100px;
-  top: 595px;
-}
-
-li {
-  /* Orders All Navigation Elements */
-  display: block;
-  font-family: 'Arial Narrow', Verdana, sans-serif;
-  font-size: 24pt;
-  max-width: 250px;
-  line-height: 1.2em;
-  letter-spacing: 0.2em;
-  color: #ffffff;
-  text-transform: uppercase;
-  text-shadow: 1px 1px 3px #111111;
-}
-
-a {
-  /* Targets All Linked Elements */
-  color: black;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #54dab7;
-  style: italic;
-}
-
 h1 {
   /* Targets All H1 Elements. */
   position: absolute;
@@ -130,6 +95,41 @@ h2 {
     padding-bottom: 25px;
     }
 
+    nav {
+      /* Targets All Navigation Elements */
+      position: absolute;
+      z-index: 7;
+      text-align: left;
+      width: auto;
+      height: auto;
+      right: 100px;
+      top: 595px;
+    }
+
+    li {
+      /* Orders All Navigation Elements */
+      display: block;
+      font-family: 'Arial Narrow', Verdana, sans-serif;
+      font-size: 24pt;
+      max-width: 250px;
+      line-height: 1.2em;
+      letter-spacing: 0.2em;
+      color: #ffffff;
+      text-transform: uppercase;
+      text-shadow: 1px 1px 3px #111111;
+    }
+
+    a {
+      /* Targets All Linked Elements */
+      color: #2f776a;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #54dab7;
+      style: italic;
+    }
+
 /* Dropdown Element */
 /* The dropdown container */
 .dropdown {
@@ -141,9 +141,9 @@ h2 {
   font-size: 36pt;
   border: none;
   outline: none;
-  color: white;
+  color: none;
   padding: 7px 8px;
-  background-color: inherit;
+  background-color: none;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
