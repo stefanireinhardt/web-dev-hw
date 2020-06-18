@@ -140,14 +140,14 @@ h2 {
   font-size: 36pt;
   border: none;
   outline: none;
-  color: none;
+  color: black;
   padding: 7px 8px;
   background-color: none;
   font-family: inherit; /* Important for vertical align on mobile phones */
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-/* Add a red background color to navbar links on hover */
+/* Adds background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   font-color: #54dab7;
 }
