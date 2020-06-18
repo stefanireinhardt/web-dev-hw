@@ -29,3 +29,11 @@
   font-weight: normal;
   font-style: bold;
 }
+
+/* Completed for the "H2" font: */
+@font-face {
+  font-family: 'Arial Narrow Bold';
+  src: url('../fonts/arial-narrow-bold.ttf') format('opentype');
+  font-weight: normal;
+  font-style: bold;
+}
