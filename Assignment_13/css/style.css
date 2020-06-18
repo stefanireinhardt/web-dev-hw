@@ -28,14 +28,13 @@ body {
   z-index: 4;
   font-family: 'VOGUE', Times, serif;
   font-size: 44pt;
-  background-color: #bb9f8b;
   color: #ffffff;
+  background-color: rgba(187, 159, 139, 0.3);
   letter-spacing: 0.2em;
   padding-top: 100px;
   padding-left: 25px;
-  padding-right: 25px;
+  padding-right: 125px;
   padding-bottom: 25px;
-  background-color: rgba(47, 119, 106, 0.3);
   margin-top: 100px;
   margin-left: 0px;
 }
