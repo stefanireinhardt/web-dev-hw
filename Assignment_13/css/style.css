@@ -68,13 +68,25 @@ h1 {
 .container {
   position: fixed;
   z-index: 3;
-  background-color: none;
-  top: 25px;
-  left: 50px;
-  width: 50%;
-  margin-left: 40px;
-  margin-top: 100px;
+  top: 15%;
+  left: 7%;
+  width: 35%;
+  margin-left: 7%;
+  margin-top: 15%;
   padding: 3px;
+}
+
+.framed-element {
+  /* Targets All Target Elements */
+  position: absolute;
+  z-index: 2;
+  background-color: rgba(47, 119, 106, 0.3);
+  left: 40px;
+  width: 600px;
+  height: 1000px;
+  margin-top: 300px;
+  margin-bottom: 100px;
+  margin-left: 100px;
 }
 
 .framed-contact-element {
@@ -92,20 +104,6 @@ h1 {
   border-style: solid;
   border-color: #ffffff;
   border-width: 2px;
-}
-
-.framed-element {
-  /* Targets All Target Elements */
-  position: absolute;
-  z-index: 2;
-  background-color: rgba(47, 119, 106, 0.3);
-  bottom: 25px;
-  left: 40px;
-  width: 600px;
-  height: 400px;
-  margin-top: 300px;
-  margin-bottom: 25px;
-  margin-left: 100px;
 }
 
 h2 {
