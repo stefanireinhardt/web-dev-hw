@@ -1,6 +1,6 @@
 body {
    /* Targets EVERY element in the body. */
-   width: auto;
+   width: 1074;
    height: auto;
    background-color: #ffffff;
    }
@@ -10,8 +10,8 @@ body {
      z-index: 2;
      position: absolute;
      width: 50%;
-     margin-top: 75px;
-     margin-left: 75px;
+     margin-top: 5%;
+     margin-left: 5%;
      box-shadow: -10px 10px 25px #888888;
    }
 
@@ -21,7 +21,7 @@ position: absolute;
 z-index: 7;
 width: 50px;
 height: 50px;
-right: 1000px;
+right: 25px;
 bottom: 250px;
 }
 
