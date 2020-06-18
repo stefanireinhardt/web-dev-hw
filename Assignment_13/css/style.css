@@ -64,13 +64,13 @@ h1 {
   font-size: 68pt;
   color: #ffffff;
   letter-spacing: 0.2em;
-  padding-top: 100px;
+  padding-top: 250px;
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 25px;
   background-color: rgba(47, 119, 106, 0.3);
   margin-top: 100px;
-  margin-left: 75px;
+  margin-left: 100px;
 }
 
 .framed-element {
