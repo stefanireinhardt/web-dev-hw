@@ -117,9 +117,9 @@ h2 {
     font-size: 15pt;
     color: #ffffff;
     line-height: 1.4em;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-top: 65px;
+    padding-top: 400px;
+    padding-left: 25px;
+    padding-right: 25px;
     }
 
 /* Dropdown Element */
