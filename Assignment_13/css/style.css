@@ -148,7 +148,7 @@ h2 {
 }
 
 /* Adds background color to navbar links on hover */
-.navbar a:hover, .dropdown:hover .dropbtn {
+.navbar .dropdown:hover .dropbtn {
   font-color: #ffffff;
 }
 
@@ -172,7 +172,7 @@ h2 {
   text-align: left;
 }
 
-/* Add a white background color to dropdown links on hover */
+/* Adds white font color to dropdown links on hover */
 .dropdown-content a:hover {
   color: #ffffff;
 }
