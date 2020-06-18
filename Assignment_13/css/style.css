@@ -1,0 +1,190 @@
+body {
+   /* Targets EVERY element in the body. */
+   width: 100%;
+   height: 2300px;
+   margin: 0px;
+   background-color: #ffffff;
+   }
+
+.nav-bar {
+/* Targets Navigation Bar Elements */
+position: fixed;
+z-index: 7;
+width: 100%;
+height: 2em;
+padding: 0px;
+margin: none;
+}
+
+.background {
+  /* Targets Main Image Element */
+  position: fixed;
+  z-index: 2;
+}
+
+h1 {
+  /* Targets All H1 Elements. */
+  position: fixed;
+  font-family: 'VOGUE', Times, serif;
+  font-size: 36pt;
+  color: #ffffff;
+  letter-spacing: 0.2em;
+  text-shadow: 2px 2px 7px #111111;
+  text-align: center;
+  margin-left: 50px;
+}
+
+nav {
+  /* Targets All Navigation Elements */
+  position: fixed;
+  font-family: 'Arial Narrow', Verdana, sans-serif;
+  font-size: 15pt;
+  color: #ffffff;
+  padding-top: 25px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 7px #111111;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+li {
+  /* Orders All Navigation Elements */
+  margin-right: 50px;
+  font-family: 'Arial Narrow', Verdana, sans-serif;
+  font-size: 15pt;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+a {
+  /* Targets All Linked Elements */
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #54dab7;
+  style: italic;
+}
+
+.container {
+  position: fixed;
+  z-index: 3;
+  background-color: none;
+  top: 25px;
+  left: 50px;
+  width: 50%;
+  margin-left: 40px;
+  margin-top: 100px;
+  padding: 3px;
+}
+
+.framed-contact-element {
+  /* Targets All Target Elements */
+  position: fixed;
+  z-index: 2;
+  background-color: rgba(47, 119, 106, 0.3);
+  bottom: 25px;
+  left: 40px
+  width: 33%;
+  height: 400px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 40px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+}
+
+.framed-element {
+  /* Targets All Target Elements */
+  position: fixed;
+  z-index: 2;
+  background-color: rgba(47, 119, 106, 0.3);
+  bottom: 25px;
+  left: 40px;
+  position: center;
+  width: 33%;
+  height: 400px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+  margin-left: 40px;
+}
+
+h2 {
+  /* Targets All H2 Elements */
+  position: absolute;
+  z-index: 4;
+  font-family: 'Arial Narrow Italic', Verdana, sans-serif;
+  font-size: 28pt;
+  color: #d64f1a;
+  padding-top: 15px;
+  letter-spacing: 0.2em;
+  margin-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  }
+
+  p {
+    /* Targets All P Elements */
+    font-family: 'Arial Narrow', Verdana, sans-serif;
+    font-size: 15pt;
+    color: #ffffff;
+    line-height: 1.4em;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 65px;
+    }
+
+/* Dropdown Element */
+/* The dropdown container */
+.dropdown {
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 36pt;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 7px 8px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  font-color: #ffffff;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #cfcbc9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: #54dab7;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #cfcbc9;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}

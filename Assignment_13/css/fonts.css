@@ -1,0 +1,23 @@
+/* Completed for the "Body" font: */
+@font-face {
+  font-family: 'Arial Narrow';
+  src: url('../fonts/arial-narrow.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Completed for the "Heading" font: */
+@font-face {
+  font-family: 'VOGUE';
+  src: url('../fonts/vogue.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Completed for the "Quotes" font: */
+@font-face {
+  font-family: 'Arial Narrow Italic';
+  src: url('../fonts/arial-narrow-italic.ttf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
