@@ -39,7 +39,7 @@ h1 {
   margin-left: 90px;
 }
 
-#h1.about {
+.h1about {
   /* Targets H1 Element on About Page */
   position: absolute;
   z-index: 4;
