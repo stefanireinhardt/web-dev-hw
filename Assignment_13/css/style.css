@@ -26,7 +26,7 @@ bottom: 200px;
 
 h1 {
   /* Targets All H1 Elements. */
-  position: fixed;
+  position: absolute;
   font-family: 'VOGUE', Times, serif;
   font-size: 36pt;
   color: #ffffff;
