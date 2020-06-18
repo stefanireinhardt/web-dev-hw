@@ -1,7 +1,7 @@
 body {
    /* Targets EVERY element in the body. */
    width: 1074px;
-   height: autopx;
+   height: auto;
    background-color: #ffffff;
    }
 
