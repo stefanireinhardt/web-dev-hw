@@ -47,12 +47,12 @@ body {
   font-family: 'VOGUE', Times, serif;
   font-size: 44pt;
   color: #ffffff;
+  background-color: rgba(187, 159, 139, 0.3);
   letter-spacing: 0.2em;
   padding-top: 100px;
   padding-left: 25px;
   padding-right: 200px;
   padding-bottom: 25px;
-  background-color: rgba(47, 119, 106, 0.3);
   margin-top: 600px;
   margin-right:opx;
 }
