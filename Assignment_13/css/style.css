@@ -6,6 +6,16 @@ body {
    background-color: #ffffff;
    }
 
+   .background {
+     /* Targets Main Image Element */
+     z-index: 2;
+     position: absolute;
+     width: 1474px;
+     margin-top: 75px;
+     margin-left: 75px;
+     box-shadow: -20px 20px 50px #888888;
+   }
+
 .nav-bar {
 /* Targets Navigation Bar Elements */
 position: absolute;
@@ -16,38 +26,12 @@ right: 250px;
 bottom: 200px;
 }
 
-.background {
-  /* Targets Main Image Element */
-  z-index: 2;
-  position: absolute;
-  width: 1474px;
-  margin-top: 75px;
-  margin-left: 75px;
-  box-shadow: -20px 20px 50px #888888;
-}
-
-h1 {
-  /* Targets All H1 Elements. */
-  position: absolute;
-  font-family: 'VOGUE', Times, serif;
-  font-size: 36pt;
-  color: #ffffff;
-  letter-spacing: 0.2em;
-  text-shadow: 2px 2px 7px #111111;
-  text-align: center;
-  margin-left: 50px;
-}
-
 nav {
   /* Targets All Navigation Elements */
   position: absolute;
   font-family: 'Arial Narrow', Verdana, sans-serif;
-  color: #ffffff;
-  padding-top: 25px;
   text-transform: uppercase;
   text-shadow: 2px 2px 7px #111111;
-  margin-left: 50px;
-  margin-top: 50px;
 }
 
 li {
@@ -55,6 +39,7 @@ li {
   display: block;
   font-family: 'Arial Narrow', Verdana, sans-serif;
   font-size: 15pt;
+  line-height: 1.4em;
   color: #ffffff;
   text-transform: uppercase;
 }
@@ -68,6 +53,18 @@ a {
 a:hover {
   color: #54dab7;
   style: italic;
+}
+
+h1 {
+  /* Targets All H1 Elements. */
+  position: absolute;
+  font-family: 'VOGUE', Times, serif;
+  font-size: 36pt;
+  color: #ffffff;
+  letter-spacing: 0.2em;
+  text-shadow: 2px 2px 7px #111111;
+  text-align: center;
+  margin-left: 50px;
 }
 
 .container {
