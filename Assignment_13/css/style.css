@@ -22,7 +22,7 @@ body {
   box-shadow: -10px 10px 25px #888888;
 }
 
-h1 {
+.h1index {
   /* Targets All H1 Elements. */
   position: absolute;
   z-index: 4;
