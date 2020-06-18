@@ -12,8 +12,8 @@ body {
      align-content: center;
      width: auto;
      margin-top: 50px;
-     margin-left: 50px;
-     margin-right: 50px;
+     margin-left: auto;
+     margin-right: auto;
      margin-bottom: 50px;
      box-shadow: -10px 10px 25px #888888;
    }
