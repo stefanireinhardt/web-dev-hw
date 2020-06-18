@@ -64,7 +64,7 @@ h2 {
   z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
   width: 395px;
-  height: 900px;
+  height: auto;
   margin-top: 500px;
   margin-bottom: 100px;
   margin-left: 90px;
