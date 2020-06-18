@@ -107,14 +107,13 @@ h2 {
   /* Targets All H2 Elements */
   position: absolute;
   z-index: 5;
-  font-family: 'Arial Narrow Italic', Verdana, sans-serif;
+  font-family: 'Arial Narrow Bold Italic', Verdana, sans-serif;
+  font-style: bold;
   font-size: 28pt;
-  color: #d64f1a;
+  color: #2f776a;
   padding-top: 15px;
+  padding-left: 25px;
   letter-spacing: 0.2em;
-  margin-left: 50px;
-  margin-top: 0px;
-  margin-bottom: 25px;
   }
 
   p {
