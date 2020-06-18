@@ -160,7 +160,7 @@ h2 {
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  font-color: #ffffff;
+  font-color: #54dab7;
 }
 
 /* Dropdown content (hidden by default) */
@@ -176,7 +176,7 @@ h2 {
 /* Links inside the dropdown */
 .dropdown-content a {
   float: none;
-  color: #54dab7;
+  color: #ffffff;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
