@@ -35,9 +35,8 @@ h1 {
 
 nav {
   /* Targets All Navigation Elements */
-  position: fixed;
+  position: absolute;
   font-family: 'Arial Narrow', Verdana, sans-serif;
-  font-size: 15pt;
   color: #ffffff;
   padding-top: 25px;
   text-transform: uppercase;
@@ -49,7 +48,6 @@ nav {
 li {
   /* Orders All Navigation Elements */
   display: block;
-  margin-right: 50px;
   font-family: 'Arial Narrow', Verdana, sans-serif;
   font-size: 15pt;
   color: #ffffff;
@@ -81,7 +79,7 @@ a:hover {
 
 .framed-contact-element {
   /* Targets All Target Elements */
-  position: fixed;
+  position: absolute;
   z-index: 2;
   background-color: rgba(47, 119, 106, 0.3);
   bottom: 25px;
@@ -98,7 +96,7 @@ a:hover {
 
 .framed-element {
   /* Targets All Target Elements */
-  position: fixed;
+  position: absolute;
   z-index: 2;
   background-color: rgba(47, 119, 106, 0.3);
   bottom: 25px;
