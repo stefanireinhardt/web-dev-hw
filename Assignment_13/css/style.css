@@ -20,7 +20,7 @@ body {
 .nav-bar {
 /* Targets Navigation Bar Elements */
 position: absolute;
-z-index: 7;
+z-index: 6;
 width: 100px;
 height: 50px;
 right: 25px;
@@ -59,6 +59,7 @@ a:hover {
 h1 {
   /* Targets All H1 Elements. */
   position: absolute;
+  z-index: 4;
   font-family: 'VOGUE', Times, serif;
   font-size: 68pt;
   color: #ffffff;
@@ -73,10 +74,11 @@ h1 {
 .framed-element {
   /* Targets All Target Elements */
   position: absolute;
-  z-index: 2;
+  z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
   width: 600px;
   height: 1000px;
+  margin-top: 900px;
   margin-bottom: 100px;
   margin-left: 100px;
 }
@@ -84,7 +86,7 @@ h1 {
 .framed-contact-element {
   /* Targets All Target Elements */
   position: absolute;
-  z-index: 2;
+  z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
   bottom: 25px;
   left: 40px
@@ -101,7 +103,7 @@ h1 {
 h2 {
   /* Targets All H2 Elements */
   position: absolute;
-  z-index: 4;
+  z-index: 5;
   font-family: 'Arial Narrow Italic', Verdana, sans-serif;
   font-size: 28pt;
   color: #d64f1a;
