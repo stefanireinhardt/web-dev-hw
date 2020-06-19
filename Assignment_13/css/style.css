@@ -88,6 +88,16 @@ h2.mediums {
   letter-spacing: 0em;
   }
 
+  h2.contact {
+    /* Targets H2 Element on Contact Page. */
+    font-family: 'Arial Narrow Bold', Verdana, sans-serif;
+    align: center;
+    font-size: 17pt;
+    padding-left: 15px;
+    color: #2f776a;
+    letter-spacing: 0em;
+  }
+
 .framed-element-index {
   /* Targets All Target Elements */
   position: absolute;
