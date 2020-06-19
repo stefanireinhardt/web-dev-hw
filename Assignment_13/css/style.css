@@ -117,12 +117,22 @@ h2.mediums {
   /* Targets Message Box Element on Contact Page. */
   position: absolute;
   z-index: 3;
+  font-size:
   background-color: #a7beb8;
   width: 400px;
   height: 1000px;
   margin-top: 400px;
   margin-bottom: 0px;
   margin-left: 200px;
+  font-family: 'Arial Narrow', Verdana, sans-serif;
+  font-size: 18pt;
+  color: #ffffff;
+  line-height: 1.2em;
+  letter-spacing: 1px;
+  padding-top: 0px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
 }
 
   p {
@@ -137,20 +147,6 @@ h2.mediums {
     padding-left: 25px;
     padding-right: 25px;
     padding-bottom: 25px;
-    }
-
-  .contact-fields {
-      /* Targets All Message Fields. */
-      position: static;
-      font-family: 'Arial Narrow', Verdana, sans-serif;
-      font-size: 18pt;
-      color: #ffffff;
-      line-height: 1.2em;
-      letter-spacing: 1px;
-      padding-top: 0px;
-      padding-left: 15px;
-      padding-right: 15px;
-      padding-bottom: 15px;
     }
 
     .nav-index {
