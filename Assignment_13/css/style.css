@@ -31,6 +31,7 @@ body {
   color: #ffffff;
   background-color: rgba(187, 159, 139, 0.3);
   letter-spacing: 0.2em;
+  text-shadow: -2px 2px 2px #888888;
   padding-top: 100px;
   padding-left: 25px;
   padding-right: 125px;
@@ -48,6 +49,7 @@ body {
   color: #ffffff;
   background-color: rgba(187, 159, 139, 0.3);
   letter-spacing: 0.2em;
+  text-shadow: -2px 2px 2px #888888;
   padding-top: 100px;
   padding-left: 559px;
   padding-right: 100px;
@@ -66,6 +68,7 @@ body {
   color: #ffffff;
   background-color: rgba(187, 159, 139, 0.3);
   letter-spacing: 0.2em;
+  text-shadow: -2px 2px 2px #888888;
   padding-top: 100px;
   padding-left: 600px;
   padding-right: 104px;
@@ -172,6 +175,7 @@ h2.mediums {
     color: #ffffff;
     line-height: 1.2em;
     letter-spacing: 2px;
+    text-shadow: -2px 2px 2px #888888;
     padding-top: 0px;
     padding-left: 25px;
     padding-right: 25px;
@@ -222,11 +226,13 @@ h2.mediums {
       /* Targets All Linked Elements */
       color: #2f776a;
       text-decoration: none;
+      text-shadow: -2px 2px 2px #888888;
     }
 
     a:hover {
       color: #54dab7;
       style: italic;
+      text-shadow: -2px 2px 2px #888888;
     }
 
 /* Dropdown Element */
@@ -267,11 +273,13 @@ h2.mediums {
   text-decoration: none;
   display: block;
   text-align: left;
+  text-shadow: -2px 2px 2px #888888;
 }
 
 /* Adds white font color to dropdown links on hover */
 .dropdown-content a:hover {
   color: #ffffff;
+  text-shadow: -2px 2px 2px #888888;
 }
 
 /* Show the dropdown menu on hover */
