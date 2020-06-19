@@ -312,12 +312,24 @@ h2.mediums {
 }
 
 /* Gallery Hover Image Change Elements. */
-.profile-image{
- position: relative;}
+.image-colored {
+  background: url("./images/backgrounds/reinhardt-colored.png")
+  position: absolute;
+  z-index: 2;
+  width: 476px;
+  height: 420px;
+  margin-left: 100px;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
 
-.image-hover-original{
-background: url("./images/backgrounds/gallery-original.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+.image-colored:hover {
+background: url("./images/backgrounds/reinhardt-original.png")
 position: absolute;
 z-index: 2;
-display:none;
+width: 476px;
+height: 420px;
+margin-left: 100px;
+margin-top: 0px;
+margin-bottom: 100px;
 }
