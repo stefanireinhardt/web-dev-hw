@@ -315,7 +315,7 @@ h2.mediums {
 .image-colored {
   background: url("./images/backgrounds/reinhardt-colored.png")
   position: absolute;
-  z-index: 2;
+  z-index: 7;
   width: 476px;
   height: 420px;
   margin-left: 100px;
@@ -326,7 +326,7 @@ h2.mediums {
 .image-colored:hover {
 background: url("./images/backgrounds/reinhardt-original.png")
 position: absolute;
-z-index: 2;
+z-index: 7;
 width: 476px;
 height: 420px;
 margin-left: 100px;
