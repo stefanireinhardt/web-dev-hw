@@ -120,12 +120,12 @@ h2.mediums {
   background-color: rgba(47, 119, 106, 0.3);
   width: 400px;
   height: 600px;
-  margin-top: 0px;
+  margin-top: 500px;
   margin-bottom: 0px;
   margin-left: 40px;
   border-style: solid;
   border-color: #ffffff;
-  border-width: 5px;
+  border-width: 2px;
 }
 
   p {
