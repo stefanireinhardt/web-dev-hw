@@ -325,9 +325,8 @@ h2.mediums {
   z-index: 6;
   width: 476px;
   height: 420px;
-  margin-left: 100px;
-  margin-top: 0px;
-  margin-bottom: 100px;
+  left: 75px;
+  top: 500px;
 }
 
 .image-colored:hover {
@@ -336,9 +335,8 @@ position: absolute;
 z-index: 6;
 width: 476px;
 height: 420px;
-margin-left: 100px;
-margin-top: 0px;
-margin-bottom: 100px;
+left: 75px;
+top: 500px;
 }
 
 /* Media Element. */
