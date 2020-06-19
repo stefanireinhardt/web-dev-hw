@@ -343,8 +343,8 @@ top: 500px;
 .media {
   position: absolute;
   z-index: 1;
-  width: 476px;
-  height: 285px;
+  width: 500px;
+  height: auto;
   margin-left: 300px;
   margin-top: 215px;
 }
