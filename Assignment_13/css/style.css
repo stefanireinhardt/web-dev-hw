@@ -315,4 +315,6 @@ position: absolute;
 z-index: 2;
 display:none; }
 
-.profile-image:hover .image_hover_bg{display:block}
+.profile-image:hover .image_hover_bg {
+  display:block;
+}
