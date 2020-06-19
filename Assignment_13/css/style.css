@@ -13,7 +13,6 @@ body {
 
 .container {
   /*DO NOT CHANGE - Targets All Page Elements in Container. */
-  position: absolute;
   width: 1024px;
   height: 1492px;
   margin-left: 100px;
