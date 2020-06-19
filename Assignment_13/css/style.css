@@ -139,7 +139,7 @@ h2.mediums {
     padding-bottom: 25px;
     }
 
-    p.contact-fields {
+  .contact-fields {
       /* Targets All Message Fields. */
       position: static;
       font-family: 'Arial Narrow', Verdana, sans-serif;
