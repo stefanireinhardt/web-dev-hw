@@ -114,15 +114,15 @@ h2.mediums {
 }
 
 .framed-element-contact {
-  /* Targets All Target Elements */
+  /* Targets Message Box Element on Contact Page. */
   position: absolute;
   z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
   width: 400px;
-  height: 700px;
-  margin-top: 500px;
+  height: 600px;
+  margin-top: 600px;
   margin-bottom: 0px;
-  margin-left: 40px;
+  margin-left: 100px;
   border-style: solid;
   border-color: #ffffff;
   border-width: 2px;
