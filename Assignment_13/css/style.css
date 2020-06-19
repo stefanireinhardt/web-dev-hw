@@ -42,7 +42,7 @@ body {
 .h1about {
   /* Targets H1 Element on About Page */
   position: absolute;
-  z-index: 2;
+  z-index: 4;
   font-family: 'VOGUE', Times, serif;
   font-size: 44pt;
   color: #ffffff;
