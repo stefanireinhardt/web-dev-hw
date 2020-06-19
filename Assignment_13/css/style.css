@@ -357,7 +357,23 @@ top: 500px;
 }
 
 /* Media Element. */
-.media {
+.hummingbird {
+  position: absolute;
+  display: block;
+  z-index: 1;
+  left: 350px;
+  top: 320px;
+}
+
+.cooper {
+  position: absolute;
+  display: block;
+  z-index: 1;
+  left: 350px;
+  top: 320px;
+}
+
+.reinhardt {
   position: absolute;
   display: block;
   z-index: 1;
