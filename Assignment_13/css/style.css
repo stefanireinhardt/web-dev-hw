@@ -152,9 +152,9 @@ h2.mediums {
   font-family: 'Arial Narrow', Verdana, sans-serif;
   color: #ffffff;
   background-color: rgba(47, 119, 106, 0.3);
-  font-size: 14pt;
+  font-size: 16pt;
   line-height: 0.5em;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
   text-transform: uppercase;
   width: 400px;
   height: auto;
