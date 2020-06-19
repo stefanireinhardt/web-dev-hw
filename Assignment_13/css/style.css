@@ -224,6 +224,15 @@ h2.mediums {
       top: 25px;
     }
 
+    .nav-gallery {
+      /* Targets All Navigation Elements on Gallery Page */
+      position: absolute;
+      z-index: 7;
+      text-align: left;
+      right: 150px;
+      top: 750px;
+    }
+
     li {
       /* Orders All Navigation Elements */
       display: block;
