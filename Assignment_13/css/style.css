@@ -117,7 +117,7 @@ h2.mediums {
   /* Targets Message Box Element on Contact Page. */
   position: absolute;
   z-index: 3;
-  background-color: rgba(47, 119, 106, 0.3);
+  background-color: #a7beb8;
   width: 400px;
   height: 600px;
   margin-top: 600px;
