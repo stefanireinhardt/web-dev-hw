@@ -370,7 +370,7 @@ top: 500px;
   display: block;
   z-index: 1;
   left: 350px;
-  top: 320px;
+  bottom: 0px;
 }
 
 .reinhardt {
