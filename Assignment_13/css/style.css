@@ -119,14 +119,10 @@ h2.mediums {
   z-index: 3;
   background-color: #a7beb8;
   width: 400px;
-  height: 800px;
-  padding-top: 300px;
-  margin-top: 600px;
+  height: 1000px;
+  margin-top: 400px;
   margin-bottom: 0px;
   margin-left: 200px;
-  border-style: solid;
-  border-color: #ffffff;
-  border-width: 2px;
 }
 
   p {
