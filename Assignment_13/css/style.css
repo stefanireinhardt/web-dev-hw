@@ -77,6 +77,23 @@ body {
   margin-left: 0px;
 }
 
+.h1gallery {
+  /* Targets All H1 Elements on Contact Page. */
+  position: absolute;
+  z-index: 2;
+  font-family: 'VOGUE', Times, serif;
+  font-size: 44pt;
+  color: #ffffff;
+  background-color: rgba(187, 159, 139, 0.3);
+  letter-spacing: 0.2em;
+  text-shadow: -2px 2px 2px #888888;
+  padding-top: 100px;
+  padding-left: 600px;
+  padding-right: 104px;
+  padding-bottom: 25px;
+  margin-top: 1100px;
+  margin-left: 0px;
+}
 
 h2 {
   /* Targets All H2 Elements */
