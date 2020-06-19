@@ -369,7 +369,7 @@ top: 500px;
   position: absolute;
   display: block;
   z-index: 1;
-  right: 85px;
+  right: 115px;
   bottom: -5px;
 }
 
@@ -377,6 +377,6 @@ top: 500px;
   position: absolute;
   display: block;
   z-index: 1;
-  left: 250px;
-  top: 420px;
+  left: 150px;
+  top: 520px;
 }
