@@ -143,7 +143,7 @@ h2.mediums {
     }
 
     .nav-index {
-      /* Targets All Navigation Elements */
+      /* Targets All Navigation Elements on Index/Home Page */
       position: absolute;
       z-index: 7;
       text-align: left;
@@ -152,12 +152,21 @@ h2.mediums {
     }
 
     .nav-about {
-      /* Targets All Navigation Elements */
+      /* Targets All Navigation Elements on About Page */
       position: absolute;
       z-index: 7;
       text-align: left;
       right: 275px;
       top: 225px;
+    }
+
+    .nav-contact {
+      /* Targets All Navigation Elements on Contact Page */
+      position: absolute;
+      z-index: 7;
+      text-align: left;
+      right: 575px;
+      top: 100px;
     }
 
     li {
