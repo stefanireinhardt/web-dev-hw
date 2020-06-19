@@ -228,7 +228,7 @@ h2.mediums {
     .nav-gallery {
       /* Targets All Navigation Elements on Gallery Page */
       position: absolute;
-      z-index: 7;
+      z-index: 6;
       text-align: left;
       right: 200px;
       top: 815px;
