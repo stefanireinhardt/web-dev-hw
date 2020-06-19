@@ -333,3 +333,13 @@ margin-left: 100px;
 margin-top: 0px;
 margin-bottom: 100px;
 }
+
+/* Media Element. */
+.media {
+  position: absolute;
+  z-index: 1;
+  width: 476px;
+  height: 285px;
+  margin-left: 100px;
+  margin-top: 0px;
+}
