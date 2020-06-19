@@ -84,6 +84,7 @@ h2 {
   padding-left: 25px;
   padding-bottom: 0px;
   letter-spacing: 0.2em;
+  text-shadow: -2px 2px 3px #888888;
   }
 
   h2.signed {
@@ -214,6 +215,7 @@ h2.mediums {
       letter-spacing: 0.2em;
       color: #ffffff;
       text-transform: uppercase;
+      text-shadow: -2px 2px 3px #888888;
     }
 
     a {
