@@ -113,21 +113,19 @@ h2.mediums {
   margin-right: 100px;
 }
 
-.framed-contact-element {
+.framed-element-contact {
   /* Targets All Target Elements */
   position: absolute;
   z-index: 3;
   background-color: rgba(47, 119, 106, 0.3);
-  bottom: 25px;
-  left: 40px
-  width: 33%;
-  height: 400px;
+  width: 400px;
+  height: 600px;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 40px;
   border-style: solid;
   border-color: #ffffff;
-  border-width: 2px;
+  border-width: 5px;
 }
 
   p {
