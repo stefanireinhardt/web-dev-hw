@@ -147,17 +147,15 @@ h2.mediums {
   z-index: 3;
   font-family: 'Arial Narrow', Verdana, sans-serif;
   color: #ffffff;
+  background-color: rgba(47, 119, 106, 0.3);
   font-size: 15pt;
   line-height: 0.5em;
   letter-spacing: 1px;
-  background-color: #a7beb8;
   width: 400px;
   height: 1000px;
   margin-top: 400px;
   margin-bottom: 0px;
   margin-left: 200px;
-
-
   padding-top: 0px;
   padding-left: 15px;
   padding-right: 15px;
